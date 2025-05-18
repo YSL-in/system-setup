@@ -1,0 +1,4364 @@
+{
+    "userphrase": [
+        {
+            "bopomofo": "ㄓㄨˋ ㄧㄣ",
+            "phrase": "注音"
+        },
+        {
+            "bopomofo": "ㄧㄥˋ ㄌㄚ",
+            "phrase": "硬拉"
+        },
+        {
+            "bopomofo": "ㄕㄣ ㄉㄨㄣ",
+            "phrase": "深蹲"
+        },
+        {
+            "bopomofo": "ㄨㄛˋ ㄊㄨㄟ",
+            "phrase": "臥推"
+        },
+        {
+            "bopomofo": "ㄉㄨˊ ㄑㄩˇ",
+            "phrase": "讀取"
+        },
+        {
+            "bopomofo": "ㄉㄧㄥˋ ㄧˋ",
+            "phrase": "定義"
+        },
+        {
+            "bopomofo": "ㄗㄞˇ ㄖㄨˋ",
+            "phrase": "載入"
+        },
+        {
+            "bopomofo": "ㄔㄤˊ ㄩㄥˋ",
+            "phrase": "常用"
+        },
+        {
+            "bopomofo": "ㄌㄨㄛˊ ㄐㄧˊ",
+            "phrase": "邏輯"
+        },
+        {
+            "bopomofo": "ㄊㄧㄢ ㄌㄨㄥˊ",
+            "phrase": "天龍"
+        },
+        {
+            "bopomofo": "ㄕㄨ ㄇㄧㄥˊ",
+            "phrase": "書名"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥ ㄕㄨㄣˋ",
+            "phrase": "通順"
+        },
+        {
+            "bopomofo": "ㄎㄡˇ ㄩˇ",
+            "phrase": "口語"
+        },
+        {
+            "bopomofo": "ㄈㄢ ㄧˋ",
+            "phrase": "翻譯"
+        },
+        {
+            "bopomofo": "ㄦˋ ㄔㄨㄤˋ",
+            "phrase": "二創"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˊ ㄍㄡˋ",
+            "phrase": "結構"
+        },
+        {
+            "bopomofo": "ㄅㄧㄥˋ ㄒㄧㄥˊ",
+            "phrase": "並行"
+        },
+        {
+            "bopomofo": "ㄔㄤˋ ㄉㄠˇ",
+            "phrase": "倡導"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˇ ㄕˋ",
+            "phrase": "解釋"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄊㄨㄥˊ",
+            "phrase": "異同"
+        },
+        {
+            "bopomofo": "ㄈㄢˇ ㄧㄥˋ",
+            "phrase": "反應"
+        },
+        {
+            "bopomofo": "ㄩㄢˋ ㄐㄧㄥˇ",
+            "phrase": "願景"
+        },
+        {
+            "bopomofo": "ㄈㄢˇ ㄧㄥˋ",
+            "phrase": "反映"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄨㄟˋ ㄓㄜ˙",
+            "phrase": "意味著"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄈㄡˇ",
+            "phrase": "是否"
+        },
+        {
+            "bopomofo": "ㄈㄨˊ ㄨˋ ㄩˊ",
+            "phrase": "服務於"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥˊ ㄧ",
+            "phrase": "同一"
+        },
+        {
+            "bopomofo": "ㄩㄢˊ ㄙㄨˋ",
+            "phrase": "元素"
+        },
+        {
+            "bopomofo": "ㄋㄟˋ ㄐㄩˋ",
+            "phrase": "內聚"
+        },
+        {
+            "bopomofo": "ㄉㄢ ㄧ",
+            "phrase": "單一"
+        },
+        {
+            "bopomofo": "ㄓˊ ㄗㄜˊ",
+            "phrase": "職責"
+        },
+        {
+            "bopomofo": "ㄖㄨㄥˊ ㄧˋ",
+            "phrase": "容易"
+        },
+        {
+            "bopomofo": "ㄐㄩˋ ㄐㄧㄠ",
+            "phrase": "聚焦"
+        },
+        {
+            "bopomofo": "ㄊㄧˊ ㄍㄠ",
+            "phrase": "提高"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄊㄨˊ",
+            "phrase": "試圖"
+        },
+        {
+            "bopomofo": "ㄌㄢˊ ㄊㄨˊ",
+            "phrase": "藍圖"
+        },
+        {
+            "bopomofo": "ㄐㄩˇ ㄌㄧˋ ㄌㄞˊ ㄕㄨㄛ",
+            "phrase": "舉例來說"
+        },
+        {
+            "bopomofo": "ㄧㄡˊ ㄩˊ",
+            "phrase": "由於"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˇ ㄉㄨㄢˇ",
+            "phrase": "簡短"
+        },
+        {
+            "bopomofo": "ㄒㄩˋ ㄕㄨˋ",
+            "phrase": "敘述"
+        },
+        {
+            "bopomofo": "ㄈㄤˋ ㄐㄧㄣˋ",
+            "phrase": "放進"
+        },
+        {
+            "bopomofo": "ㄊㄡˊ ㄧㄥˇ",
+            "phrase": "投影"
+        },
+        {
+            "bopomofo": "ㄎㄨㄤ ㄐㄧㄚˋ",
+            "phrase": "框架"
+        },
+        {
+            "bopomofo": "ㄅㄟˋ ㄈㄣˋ",
+            "phrase": "備份"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄨㄣˊ",
+            "phrase": "中文"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄕˋ",
+            "phrase": "都是"
+        },
+        {
+            "bopomofo": "ㄌㄧㄡˊ ㄔㄥˊ",
+            "phrase": "流程"
+        },
+        {
+            "bopomofo": "ㄅㄧㄠ ㄓㄨㄣˇ",
+            "phrase": "標準"
+        },
+        {
+            "bopomofo": "ㄌㄞˊ ㄘㄨㄣˊ",
+            "phrase": "來存"
+        },
+        {
+            "bopomofo": "ㄏㄨ ㄌㄩㄝˋ",
+            "phrase": "忽略"
+        },
+        {
+            "bopomofo": "ㄉㄞˋ ㄌㄞˊ",
+            "phrase": "帶來"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄗㄞˋ",
+            "phrase": "潛在"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˇ ㄐㄩㄝˊ",
+            "phrase": "解決"
+        },
+        {
+            "bopomofo": "ㄈㄥ ㄍㄜˊ",
+            "phrase": "風格"
+        },
+        {
+            "bopomofo": "ㄧˊ ㄓˋ",
+            "phrase": "一致"
+        },
+        {
+            "bopomofo": "ㄐㄧˊ ㄕˇ",
+            "phrase": "即使"
+        },
+        {
+            "bopomofo": "ㄔㄚˊ ㄒㄩㄣˊ",
+            "phrase": "查詢"
+        },
+        {
+            "bopomofo": "ㄅㄧㄢˋ ㄍㄥ",
+            "phrase": "變更"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢ ㄔˊ",
+            "phrase": "堅持"
+        },
+        {
+            "bopomofo": "ㄨㄢˊ ㄓㄥˇ",
+            "phrase": "完整"
+        },
+        {
+            "bopomofo": "ㄅㄠ ㄎㄨㄛˋ",
+            "phrase": "包括"
+        },
+        {
+            "bopomofo": "ㄅㄧㄠˇ ㄉㄢ",
+            "phrase": "表單"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥˋ ㄊㄞˋ",
+            "phrase": "靜態"
+        },
+        {
+            "bopomofo": "ㄌㄢˊ ㄨㄟˋ",
+            "phrase": "欄位"
+        },
+        {
+            "bopomofo": "ㄓㄥˇ ㄊㄧˇ",
+            "phrase": "整體"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄔㄤˊ",
+            "phrase": "日常"
+        },
+        {
+            "bopomofo": "ㄧㄠˋ ㄧㄡˇ",
+            "phrase": "要有"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˋ ㄋㄟˋ",
+            "phrase": "向內"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˋ ㄨㄞˋ",
+            "phrase": "向外"
+        },
+        {
+            "bopomofo": "ㄈㄣ ㄒㄧ",
+            "phrase": "分析"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢˇ ㄕˋ",
+            "phrase": "顯示"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄌㄧㄤˋ",
+            "phrase": "大量"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˇ ㄘㄡˋ",
+            "phrase": "緊湊"
+        },
+        {
+            "bopomofo": "ㄎㄨㄥˋ ㄓˋ",
+            "phrase": "控制"
+        },
+        {
+            "bopomofo": "ㄌㄧㄤˇ ㄓㄡ",
+            "phrase": "兩週"
+        },
+        {
+            "bopomofo": "ㄇㄟˇ ㄓㄡ",
+            "phrase": "每週"
+        },
+        {
+            "bopomofo": "ㄧ ㄙㄢ ㄨˇ",
+            "phrase": "一三五"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˇ ㄉㄧㄢˇ",
+            "phrase": "九點"
+        },
+        {
+            "bopomofo": "ㄔㄣˊ ㄏㄨㄟˋ",
+            "phrase": "晨會"
+        },
+        {
+            "bopomofo": "ㄓㄥˋ ㄗㄞˋ",
+            "phrase": "正在"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˋ ㄒㄧㄥˊ",
+            "phrase": "進行"
+        },
+        {
+            "bopomofo": "ㄊㄢˋ ㄙㄨㄛˇ",
+            "phrase": "探索"
+        },
+        {
+            "bopomofo": "ㄋㄢˊ ㄧˇ",
+            "phrase": "難以"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥ ㄑㄩㄝˋ",
+            "phrase": "精確"
+        },
+        {
+            "bopomofo": "ㄍㄨ ㄙㄨㄢˋ",
+            "phrase": "估算"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄕㄤˋ",
+            "phrase": "以上"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄧㄣ",
+            "phrase": "人因"
+        },
+        {
+            "bopomofo": "ㄘㄜˋ ㄕˋ",
+            "phrase": "測試"
+        },
+        {
+            "bopomofo": "ㄈㄢˇ ㄎㄨㄟˋ",
+            "phrase": "反饋"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄎㄨㄟˋ",
+            "phrase": "回饋"
+        },
+        {
+            "bopomofo": "ㄊㄜˋ ㄉㄧㄥˋ",
+            "phrase": "特定"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄐㄧˋ",
+            "phrase": "實際"
+        },
+        {
+            "bopomofo": "ㄔㄚ ㄧˋ",
+            "phrase": "差異"
+        },
+        {
+            "bopomofo": "ㄊㄨㄟˋ ㄧ ㄅㄨˋ",
+            "phrase": "退一步"
+        },
+        {
+            "bopomofo": "ㄧ ㄕˊ",
+            "phrase": "一時"
+        },
+        {
+            "bopomofo": "ㄈㄥ ㄆㄧㄥˊ ㄌㄤˋ ㄐㄧㄥˋ",
+            "phrase": "風平浪靜"
+        },
+        {
+            "bopomofo": "ㄊㄨㄟˋ ㄧˊ ㄅㄨˋ",
+            "phrase": "退一步"
+        },
+        {
+            "bopomofo": "ㄏㄨㄢˋ ㄔㄥˊ",
+            "phrase": "換成"
+        },
+        {
+            "bopomofo": "ㄙㄢ ㄓㄡ",
+            "phrase": "三週"
+        },
+        {
+            "bopomofo": "ㄨㄢˊ ㄇㄟˇ",
+            "phrase": "完美"
+        },
+        {
+            "bopomofo": "ㄏㄡˋ ㄉㄨㄢ",
+            "phrase": "後端"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄔㄥˊ ㄕ",
+            "phrase": "工程師"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄒㄧㄣ",
+            "phrase": "中心"
+        },
+        {
+            "bopomofo": "ㄇㄛˊ ㄗㄨˇ",
+            "phrase": "模組"
+        },
+        {
+            "bopomofo": "ㄍㄠ ㄉㄨˋ",
+            "phrase": "高度"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄧ",
+            "phrase": "專一"
+        },
+        {
+            "bopomofo": "ㄆㄟˋ ㄓˋ",
+            "phrase": "配置"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˊ ㄒㄧˋ",
+            "phrase": "詳細"
+        },
+        {
+            "bopomofo": "ㄨㄤˇ ㄌㄨˋ",
+            "phrase": "網路"
+        },
+        {
+            "bopomofo": "ㄋㄢˊ ㄉㄨˋ",
+            "phrase": "難度"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˋ ㄋㄥˊ",
+            "phrase": "效能"
+        },
+        {
+            "bopomofo": "ㄊㄧˊ ㄕㄥ",
+            "phrase": "提昇"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄅㄣˇ",
+            "phrase": "成本"
+        },
+        {
+            "bopomofo": "ㄆㄧㄥˊ ㄏㄥˊ",
+            "phrase": "平衡"
+        },
+        {
+            "bopomofo": "ㄊㄜˋ ㄒㄧㄥˋ",
+            "phrase": "特性"
+        },
+        {
+            "bopomofo": "ㄢˋ ㄓㄠˋ",
+            "phrase": "按照"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄐㄧˇ",
+            "phrase": "好幾"
+        },
+        {
+            "bopomofo": "ㄩㄢˊ ㄐㄧㄢˋ",
+            "phrase": "元件"
+        },
+        {
+            "bopomofo": "ㄧ ㄧㄤˋ ㄕˋ",
+            "phrase": "一樣是"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄈㄣˋ",
+            "phrase": "部份"
+        },
+        {
+            "bopomofo": "ㄉㄨㄢˇ ㄉㄨㄢˇ",
+            "phrase": "短短"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄏㄠˇ",
+            "phrase": "就好"
+        },
+        {
+            "bopomofo": "ㄒㄧㄝˋ ㄒㄧㄝ˙",
+            "phrase": "謝謝"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄩㄥˋ",
+            "phrase": "專用"
+        },
+        {
+            "bopomofo": "ㄗ ㄌㄧㄠˋ ㄎㄨˋ",
+            "phrase": "資料庫"
+        },
+        {
+            "bopomofo": "ㄩㄥˋ ㄩˊ",
+            "phrase": "用於"
+        },
+        {
+            "bopomofo": "ㄙㄜˋ ㄘㄞˇ",
+            "phrase": "色彩"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄐㄩㄝˊ",
+            "phrase": "視覺"
+        },
+        {
+            "bopomofo": "ㄧㄝˋ ㄇㄧㄢˋ",
+            "phrase": "頁面"
+        },
+        {
+            "bopomofo": "ㄕㄣ ㄉㄨˋ",
+            "phrase": "深度"
+        },
+        {
+            "bopomofo": "ㄨㄤˇ ㄓㄢˋ",
+            "phrase": "網站"
+        },
+        {
+            "bopomofo": "ㄎㄜˇ ㄆㄚˋ",
+            "phrase": "可怕"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄈㄨˊ ㄉㄨˋ",
+            "phrase": "小幅度"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄈㄨˊ",
+            "phrase": "大幅"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄖㄨˊ",
+            "phrase": "例如"
+        },
+        {
+            "bopomofo": "ㄆㄥˊ ㄓㄤˋ",
+            "phrase": "膨脹"
+        },
+        {
+            "bopomofo": "ㄚ ㄚ ㄚ",
+            "phrase": "啊啊啊"
+        },
+        {
+            "bopomofo": "ㄆㄧㄣˇ ㄆㄞˊ",
+            "phrase": "品牌"
+        },
+        {
+            "bopomofo": "ㄌㄧㄢˊ ㄍㄨㄢˋ ㄒㄧㄥˋ",
+            "phrase": "連貫性"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄗㄨㄛˋ",
+            "phrase": "實做"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄗㄚˊ ㄉㄨˋ",
+            "phrase": "複雜度"
+        },
+        {
+            "bopomofo": "ㄒㄩㄝˊ ㄒㄧˊ",
+            "phrase": "學習"
+        },
+        {
+            "bopomofo": "ㄑㄩˇ ㄒㄧㄢˋ",
+            "phrase": "曲線"
+        },
+        {
+            "bopomofo": "ㄨˊ ㄒㄩˋ",
+            "phrase": "無序"
+        },
+        {
+            "bopomofo": "ㄒㄩ ㄑㄧㄡˊ",
+            "phrase": "需求"
+        },
+        {
+            "bopomofo": "ㄔㄨˊ ㄈㄟ",
+            "phrase": "除非"
+        },
+        {
+            "bopomofo": "ㄉㄧˇ ㄑㄧˋ",
+            "phrase": "底氣"
+        },
+        {
+            "bopomofo": "ㄧ ㄧㄤˋ",
+            "phrase": "一樣"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄉㄧˇ",
+            "phrase": "有底"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄗㄞˋ ㄏㄨ",
+            "phrase": "不在乎"
+        },
+        {
+            "bopomofo": "ㄕˇ ㄩㄥˋ ㄓㄜˇ",
+            "phrase": "使用者"
+        },
+        {
+            "bopomofo": "ㄊㄧˇ ㄧㄢˋ",
+            "phrase": "體驗"
+        },
+        {
+            "bopomofo": "ㄔㄢˇ ㄆㄧㄣˇ",
+            "phrase": "產品"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄘˋ",
+            "phrase": "其次"
+        },
+        {
+            "bopomofo": "ㄧㄠˋ ㄋㄥˊ",
+            "phrase": "要能"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˇ ㄐㄧˊ ㄑㄧㄥˊ ㄎㄨㄤˋ",
+            "phrase": "緊急情況"
+        },
+        {
+            "bopomofo": "ㄏㄣˇ ㄋㄢˊ",
+            "phrase": "很難"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄨㄞˋ",
+            "phrase": "意外"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄐㄧㄡˋ ㄕˋ",
+            "phrase": "這就是"
+        },
+        {
+            "bopomofo": "ㄖㄨㄢˇ ㄊㄧˇ",
+            "phrase": "軟體"
+        },
+        {
+            "bopomofo": "ㄍㄞˋ ㄋㄧㄢˋ",
+            "phrase": "概念"
+        },
+        {
+            "bopomofo": "ㄓㄤˇ ㄉㄚˋ",
+            "phrase": "長大"
+        },
+        {
+            "bopomofo": "ㄧㄥˋ ㄊㄧˇ",
+            "phrase": "硬體"
+        },
+        {
+            "bopomofo": "ㄐㄧˊ ㄓㄨㄥ",
+            "phrase": "集中"
+        },
+        {
+            "bopomofo": "ㄕㄡ ㄐㄧˊ",
+            "phrase": "收集"
+        },
+        {
+            "bopomofo": "ㄊㄧㄠˊ ㄐㄧㄢˋ",
+            "phrase": "條件"
+        },
+        {
+            "bopomofo": "ㄓㄥˇ ㄏㄜˊ",
+            "phrase": "整合"
+        },
+        {
+            "bopomofo": "ㄈㄤ ㄕˋ",
+            "phrase": "方式"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄕㄨˇ ㄩˊ",
+            "phrase": "不屬於"
+        },
+        {
+            "bopomofo": "ㄐㄧㄚˋ ㄍㄡˋ",
+            "phrase": "架構"
+        },
+        {
+            "bopomofo": "ㄨˊ ㄩㄥˋ",
+            "phrase": "無用"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠˇ ㄅㄣˇ",
+            "phrase": "腳本"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄌㄧˇ",
+            "phrase": "這裡"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄍㄨㄛˋ ㄌㄞˊ",
+            "phrase": "再過來"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄒㄧㄚˋ",
+            "phrase": "以下"
+        },
+        {
+            "bopomofo": "ㄨˇ ㄉㄧㄢˇ",
+            "phrase": "五點"
+        },
+        {
+            "bopomofo": "ㄓㄨˇ ㄊㄧˊ",
+            "phrase": "主題"
+        },
+        {
+            "bopomofo": "ㄅㄟˋ ㄐㄧㄥˇ",
+            "phrase": "背景"
+        },
+        {
+            "bopomofo": "ㄏㄜˊ ㄕˋ",
+            "phrase": "合適"
+        },
+        {
+            "bopomofo": "ㄇㄟˊ ㄍㄨㄢˋ",
+            "phrase": "沒慣"
+        },
+        {
+            "bopomofo": "ㄒㄧˋ ㄐㄧㄡˋ",
+            "phrase": "細究"
+        },
+        {
+            "bopomofo": "ㄊㄧㄠˋ ㄍㄨㄛˋ",
+            "phrase": "跳過"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄒㄧㄝ ㄖㄣˊ",
+            "phrase": "這些人"
+        },
+        {
+            "bopomofo": "ㄧㄥ ㄍㄞ",
+            "phrase": "應該"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄗ˙",
+            "phrase": "例子"
+        },
+        {
+            "bopomofo": "ㄒㄧㄚˊ ㄞˋ",
+            "phrase": "狹隘"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄩㄢˊ",
+            "phrase": "人員"
+        },
+        {
+            "bopomofo": "ㄑㄩㄢˊ ㄒㄧㄢˋ",
+            "phrase": "權限"
+        },
+        {
+            "bopomofo": "ㄍㄜˋ ㄍㄜ˙",
+            "phrase": "各個"
+        },
+        {
+            "bopomofo": "ㄗ ㄌㄧㄠˋ",
+            "phrase": "資料"
+        },
+        {
+            "bopomofo": "ㄍㄜˋ ㄗˋ ㄨㄟˊ ㄓㄥˋ",
+            "phrase": "各自為政"
+        },
+        {
+            "bopomofo": "ㄔㄡ ㄌㄧˊ ㄔㄥˊ",
+            "phrase": "抽離成"
+        },
+        {
+            "bopomofo": "ㄍㄨㄢˇ ㄌㄧˇ",
+            "phrase": "管理"
+        },
+        {
+            "bopomofo": "ㄇㄛˊ ㄕˋ",
+            "phrase": "模式"
+        },
+        {
+            "bopomofo": "ㄔㄨ ㄌㄞˊ",
+            "phrase": "出來"
+        },
+        {
+            "bopomofo": "ㄊㄨㄢˊ ㄉㄨㄟˋ",
+            "phrase": "團隊"
+        },
+        {
+            "bopomofo": "ㄈㄣ ㄔㄥˊ",
+            "phrase": "分成"
+        },
+        {
+            "bopomofo": "ㄙㄢ ㄍㄜ˙",
+            "phrase": "三個"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄗㄨˇ",
+            "phrase": "小組"
+        },
+        {
+            "bopomofo": "ㄘㄨㄛˋ ㄨˋ",
+            "phrase": "錯誤"
+        },
+        {
+            "bopomofo": "ㄉㄧㄥˋ ㄉㄧㄥˋ",
+            "phrase": "訂定"
+        },
+        {
+            "bopomofo": "ㄋㄟˋ ㄅㄨˋ",
+            "phrase": "內部"
+        },
+        {
+            "bopomofo": "ㄍㄜˊ ㄕˋ",
+            "phrase": "格式"
+        },
+        {
+            "bopomofo": "ㄎㄞ ㄊㄨˊ",
+            "phrase": "開圖"
+        },
+        {
+            "bopomofo": "ㄗ ㄒㄩㄣˋ",
+            "phrase": "資訊"
+        },
+        {
+            "bopomofo": "ㄕㄜˋ ㄐㄧˋ ㄕ",
+            "phrase": "設計師"
+        },
+        {
+            "bopomofo": "ㄍㄥ ㄒㄧㄣ",
+            "phrase": "更新"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠ ㄈㄨˋ",
+            "phrase": "交付"
+        },
+        {
+            "bopomofo": "ㄍㄨㄟ ㄈㄢˋ",
+            "phrase": "規範"
+        },
+        {
+            "bopomofo": "ㄧㄠ ㄑㄧㄡˊ",
+            "phrase": "要求"
+        },
+        {
+            "bopomofo": "ㄅㄧˋ ㄒㄩ",
+            "phrase": "必須"
+        },
+        {
+            "bopomofo": "ㄅㄢˇ ㄅㄣˇ",
+            "phrase": "版本"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄗㄜˊ ㄖㄣˊ",
+            "phrase": "負責人"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄧ ㄉㄧㄥˋ",
+            "phrase": "不一定"
+        },
+        {
+            "bopomofo": "ㄍㄤ ㄏㄠˇ",
+            "phrase": "剛好"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄧㄡˇ",
+            "phrase": "都有"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤ ㄍㄨㄢ",
+            "phrase": "相關"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥ ㄧㄢˋ",
+            "phrase": "經驗"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄧㄝˋ ㄓ ㄕˋ",
+            "phrase": "專業知識"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄅㄠˋ",
+            "phrase": "回報"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥˊ ㄅㄨˋ",
+            "phrase": "同步"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥˋ ㄒㄧㄤˇ",
+            "phrase": "共享"
+        },
+        {
+            "bopomofo": "ㄐㄩㄝˊ ㄘㄜˋ",
+            "phrase": "決策"
+        },
+        {
+            "bopomofo": "ㄆㄧㄣˇ ㄓˊ",
+            "phrase": "品質"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄉㄞˋ ㄕㄤ ㄑㄩㄝˋ",
+            "phrase": "有待商榷"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄅㄧㄢˋ",
+            "phrase": "不變"
+        },
+        {
+            "bopomofo": "ㄑㄩㄢˊ ㄕㄨˋ",
+            "phrase": "全數"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄊㄨㄥˊ",
+            "phrase": "認同"
+        },
+        {
+            "bopomofo": "ㄔㄨ ㄓㄨㄥ",
+            "phrase": "初衷"
+        },
+        {
+            "bopomofo": "ㄏㄣˇ ㄔㄤˊ",
+            "phrase": "很長"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˋ ㄌㄩˋ",
+            "phrase": "效率"
+        },
+        {
+            "bopomofo": "ㄆㄛˋ ㄔㄢˇ",
+            "phrase": "破產"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˇ ㄇㄟˋ",
+            "phrase": "姊妹"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢ ㄑㄩ",
+            "phrase": "先驅"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄓㄣ ㄉㄨˊ ㄕㄨ",
+            "phrase": "認真讀書"
+        },
+        {
+            "bopomofo": "ㄉㄞˋ ㄉㄨˊ",
+            "phrase": "待讀"
+        },
+        {
+            "bopomofo": "ㄩㄝˋ ㄌㄢˇ ㄕˋ",
+            "phrase": "閱覽室"
+        },
+        {
+            "bopomofo": "ㄗˋ ㄒㄧˊ",
+            "phrase": "自習"
+        },
+        {
+            "bopomofo": "ㄔㄚˊ ㄧㄝˋ",
+            "phrase": "茶葉"
+        },
+        {
+            "bopomofo": "ㄔㄚˊ ㄒㄩㄝˊ",
+            "phrase": "茶學"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄧ",
+            "phrase": "中醫"
+        },
+        {
+            "bopomofo": "ㄙㄨㄟˊ ㄐㄧ",
+            "phrase": "隨機"
+        },
+        {
+            "bopomofo": "ㄨㄣˊ ㄓㄤ",
+            "phrase": "文章"
+        },
+        {
+            "bopomofo": "ㄨㄤˋ ㄌㄜ˙",
+            "phrase": "忘了"
+        },
+        {
+            "bopomofo": "ㄋㄚˇ ㄍㄜ˙",
+            "phrase": "哪個"
+        },
+        {
+            "bopomofo": "ㄨˋ ㄔㄨㄤˋ",
+            "phrase": "誤創"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣˋ ㄒㄧㄤ",
+            "phrase": "信箱"
+        },
+        {
+            "bopomofo": "ㄧ ㄌㄨˋ",
+            "phrase": "一路"
+        },
+        {
+            "bopomofo": "ㄏㄞ ㄏㄞ",
+            "phrase": "嗨嗨"
+        },
+        {
+            "bopomofo": "ㄓˇ ㄉㄜ˙ ㄕˋ",
+            "phrase": "指的是"
+        },
+        {
+            "bopomofo": "ㄉㄥ ㄖㄨˋ",
+            "phrase": "登入"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄑㄧㄢˊ",
+            "phrase": "以前"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥˇ ㄧ",
+            "phrase": "統一"
+        },
+        {
+            "bopomofo": "ㄕˇ ㄩㄥˋ",
+            "phrase": "使用"
+        },
+        {
+            "bopomofo": "ㄏㄡˋ ㄌㄞˊ",
+            "phrase": "後來"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄏㄠˋ",
+            "phrase": "新號"
+        },
+        {
+            "bopomofo": "ㄓㄨˋ ㄒㄧㄠ",
+            "phrase": "註銷"
+        },
+        {
+            "bopomofo": "ㄍㄤ ㄍㄤ",
+            "phrase": "剛剛"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄘˇ",
+            "phrase": "以此"
+        },
+        {
+            "bopomofo": "ㄈㄤ ㄅㄧㄢˋ",
+            "phrase": "方便"
+        },
+        {
+            "bopomofo": "ㄇㄚˊ ㄈㄢˊ",
+            "phrase": "麻煩"
+        },
+        {
+            "bopomofo": "ㄓㄨˋ ㄋㄧˇ",
+            "phrase": "祝你"
+        },
+        {
+            "bopomofo": "ㄕㄨㄣˋ ㄒㄧㄣ",
+            "phrase": "順心"
+        },
+        {
+            "bopomofo": "ㄧㄢˊ ㄉㄨˊ",
+            "phrase": "研讀"
+        },
+        {
+            "bopomofo": "ㄏㄚ ㄌㄨㄛ",
+            "phrase": "哈囉"
+        },
+        {
+            "bopomofo": "ㄋㄧˇ ㄏㄠˇ",
+            "phrase": "你好"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄐㄧㄥ",
+            "phrase": "已經"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢˇ ㄧˊ ㄉㄠˋ",
+            "phrase": "轉移到"
+        },
+        {
+            "bopomofo": "ㄕㄢ ㄔㄨˊ",
+            "phrase": "刪除"
+        },
+        {
+            "bopomofo": "ㄒㄧㄝˋ ㄒㄧㄝˋ",
+            "phrase": "謝謝"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥˇ ㄧ ㄈㄚ ㄆㄧㄠˋ",
+            "phrase": "統一發票"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄅㄨˋ ㄘㄨㄥˊ ㄒㄧㄣ",
+            "phrase": "力不從心"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄒㄧㄤˇ",
+            "phrase": "都想"
+        },
+        {
+            "bopomofo": "ㄒㄩㄝˊ ㄅㄨˋ ㄨㄢˊ",
+            "phrase": "學不完"
+        },
+        {
+            "bopomofo": "ㄆㄧㄥˊ ㄊㄞˊ",
+            "phrase": "平台"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄔㄨ",
+            "phrase": "最初"
+        },
+        {
+            "bopomofo": "ㄌㄧㄣˊ ㄍㄨㄛˊ",
+            "phrase": "鄰國"
+        },
+        {
+            "bopomofo": "ㄇㄛˊ ㄒㄧㄥˊ",
+            "phrase": "模型"
+        },
+        {
+            "bopomofo": "ㄒㄩㄝˊ ㄨㄟˋ",
+            "phrase": "學位"
+        },
+        {
+            "bopomofo": "ㄓˋ ㄉㄨˋ",
+            "phrase": "制度"
+        },
+        {
+            "bopomofo": "ㄧˊ ㄘˋ",
+            "phrase": "一次"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄉㄨㄛ",
+            "phrase": "最多"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄌㄨㄣˋ ㄕˋ",
+            "phrase": "不論是"
+        },
+        {
+            "bopomofo": "ㄉㄨˊ ㄕㄨ",
+            "phrase": "讀書"
+        },
+        {
+            "bopomofo": "ㄏㄨㄛˋ ㄕˋ",
+            "phrase": "或是"
+        },
+        {
+            "bopomofo": "ㄧㄣ ㄘˇ",
+            "phrase": "因此"
+        },
+        {
+            "bopomofo": "ㄍㄜ ㄓˋ",
+            "phrase": "擱置"
+        },
+        {
+            "bopomofo": "ㄓㄣ ㄕˋ",
+            "phrase": "真是"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄏㄠˇ",
+            "phrase": "不好"
+        },
+        {
+            "bopomofo": "ㄖㄨㄥˊ ㄒㄩˇ",
+            "phrase": "容許"
+        },
+        {
+            "bopomofo": "ㄧˊ ㄕˋ ㄨˊ ㄔㄥˊ",
+            "phrase": "一事無成"
+        },
+        {
+            "bopomofo": "ㄦˋ ㄕˊ",
+            "phrase": "二十"
+        },
+        {
+            "bopomofo": "ㄨˇ ㄙㄨㄟˋ",
+            "phrase": "五歲"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠ ㄉㄞˋ",
+            "phrase": "交待"
+        },
+        {
+            "bopomofo": "ㄖㄨˊ ㄘˇ",
+            "phrase": "如此"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˋ ㄍㄨㄛˋ",
+            "phrase": "近過"
+        },
+        {
+            "bopomofo": "ㄔㄡ ㄒㄧㄤˋ",
+            "phrase": "抽象"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˋ ㄐㄧㄢˋ",
+            "phrase": "漸漸"
+        },
+        {
+            "bopomofo": "ㄐㄩˋ ㄊㄧˇ",
+            "phrase": "具體"
+        },
+        {
+            "bopomofo": "ㄙㄨㄟˊ ㄓㄜ˙",
+            "phrase": "隨著"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥˋ ㄩˋ",
+            "phrase": "境遇"
+        },
+        {
+            "bopomofo": "ㄍㄞˇ ㄅㄧㄢˋ",
+            "phrase": "改變"
+        },
+        {
+            "bopomofo": "ㄘˇ ㄕˊ ㄘˇ ㄎㄜˋ",
+            "phrase": "此時此刻"
+        },
+        {
+            "bopomofo": "ㄅㄧㄥˋ ㄑㄧㄝˇ",
+            "phrase": "並且"
+        },
+        {
+            "bopomofo": "ㄎㄞ ㄈㄚ",
+            "phrase": "開發"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄉㄠˋ",
+            "phrase": "感到"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠ ㄠˋ",
+            "phrase": "驕傲"
+        },
+        {
+            "bopomofo": "ㄐㄧˋ ㄕㄨˋ",
+            "phrase": "技術"
+        },
+        {
+            "bopomofo": "ㄇㄟˊ ㄐㄧㄝˋ",
+            "phrase": "媒介"
+        },
+        {
+            "bopomofo": "ㄓㄨˇ ㄧㄝˋ",
+            "phrase": "主業"
+        },
+        {
+            "bopomofo": "ㄅㄣˇ ㄧㄝˋ",
+            "phrase": "本業"
+        },
+        {
+            "bopomofo": "ㄧㄣˇ ㄧˇ ㄨㄟˊ ㄠˋ",
+            "phrase": "引以為傲"
+        },
+        {
+            "bopomofo": "ㄘㄞˊ ㄕˋ",
+            "phrase": "才是"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˋ ㄕˋ",
+            "phrase": "會是"
+        },
+        {
+            "bopomofo": "ㄊㄧㄢ ㄇㄚˇ ㄒㄧㄥˊ ㄎㄨㄥ",
+            "phrase": "天馬行空"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄧㄝˋ",
+            "phrase": "副業"
+        },
+        {
+            "bopomofo": "ㄌㄧㄤˇ ㄊㄧㄢ",
+            "phrase": "兩天"
+        },
+        {
+            "bopomofo": "ㄉㄧㄢˇ ㄖㄢˊ",
+            "phrase": "點燃"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄨㄟˊ",
+            "phrase": "視為"
+        },
+        {
+            "bopomofo": "ㄖㄜˋ ㄑㄧㄥˊ",
+            "phrase": "熱情"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄐㄧㄢˋ ㄩˊ",
+            "phrase": "有鑑於"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄈㄤˋ",
+            "phrase": "我放"
+        },
+        {
+            "bopomofo": "ㄑㄧˋ ㄌㄜ˙",
+            "phrase": "氣了"
+        },
+        {
+            "bopomofo": "ㄏㄜˊ ㄒㄧㄣ",
+            "phrase": "核心"
+        },
+        {
+            "bopomofo": "ㄨㄟˊ ㄅㄣˇ",
+            "phrase": "為本"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄧㄠˋ",
+            "phrase": "我要"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄉㄜ˙",
+            "phrase": "新的"
+        },
+        {
+            "bopomofo": "ㄗ ㄊㄞˋ",
+            "phrase": "姿態"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄇㄣ˙",
+            "phrase": "他們"
+        },
+        {
+            "bopomofo": "ㄕㄣˋ ㄓˋ ㄧㄡˇ",
+            "phrase": "甚至有"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄧㄡˇ ㄇㄧㄥˊ ㄘˊ",
+            "phrase": "專有名詞"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠˋ ㄗㄨㄛˋ",
+            "phrase": "叫做"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˋ ㄌㄧˋ",
+            "phrase": "建立"
+        },
+        {
+            "bopomofo": "ㄨㄢˊ ㄐㄩˋ",
+            "phrase": "玩具"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄔㄢˇ",
+            "phrase": "生產"
+        },
+        {
+            "bopomofo": "ㄕㄡˇ ㄒㄧㄢ",
+            "phrase": "首先"
+        },
+        {
+            "bopomofo": "ㄊㄡˋ ㄍㄨㄛˋ",
+            "phrase": "透過"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥ ㄔㄤˊ",
+            "phrase": "經常"
+        },
+        {
+            "bopomofo": "ㄇㄧˊ ㄇㄤˊ",
+            "phrase": "迷茫"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˋ ㄕˋ",
+            "phrase": "像是"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄒㄧㄝ",
+            "phrase": "前些"
+        },
+        {
+            "bopomofo": "ㄓㄣˋ ㄗ˙",
+            "phrase": "陣子"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄧㄡˇ",
+            "phrase": "還有"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄌㄧㄠˇ ㄌㄧㄠˇ ㄓ",
+            "phrase": "不了了之"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄌㄜ˙",
+            "phrase": "有了"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄓˇ",
+            "phrase": "不只"
+        },
+        {
+            "bopomofo": "ㄍㄡ ㄊㄨㄥ",
+            "phrase": "溝通"
+        },
+        {
+            "bopomofo": "ㄕㄨ ㄌㄧˇ",
+            "phrase": "梳理"
+        },
+        {
+            "bopomofo": "ㄙ ㄒㄩˋ",
+            "phrase": "思緒"
+        },
+        {
+            "bopomofo": "ㄨㄤˇ ㄨㄤˇ",
+            "phrase": "往往"
+        },
+        {
+            "bopomofo": "ㄈㄤˋ ㄑㄧˋ",
+            "phrase": "放棄"
+        },
+        {
+            "bopomofo": "ㄅㄛ ㄓㄜˊ",
+            "phrase": "波折"
+        },
+        {
+            "bopomofo": "ㄓㄢˋ ㄉㄧㄥˋ",
+            "phrase": "暫定"
+        },
+        {
+            "bopomofo": "ㄦˊ ㄅㄨˊ",
+            "phrase": "而不"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄅㄧˇ",
+            "phrase": "好比"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄐㄩˋ",
+            "phrase": "工具"
+        },
+        {
+            "bopomofo": "ㄉㄚˇ ㄙㄨㄢˋ",
+            "phrase": "打算"
+        },
+        {
+            "bopomofo": "ㄗㄞˇ ㄩㄥˋ",
+            "phrase": "仔用"
+        },
+        {
+            "bopomofo": "ㄘㄞˇ ㄩㄥˋ",
+            "phrase": "採用"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄓㄜˇ",
+            "phrase": "前者"
+        },
+        {
+            "bopomofo": "ㄏㄡˋ ㄓㄜˇ",
+            "phrase": "後者"
+        },
+        {
+            "bopomofo": "ㄓㄣ ㄧㄡˇ",
+            "phrase": "真有"
+        },
+        {
+            "bopomofo": "ㄐㄧˇ ㄐㄧㄥ",
+            "phrase": "幾經"
+        },
+        {
+            "bopomofo": "ㄩˋ ㄐㄧˋ",
+            "phrase": "預計"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄨㄢˊ",
+            "phrase": "想玩"
+        },
+        {
+            "bopomofo": "ㄑㄧㄥ ㄉㄢ",
+            "phrase": "清單"
+        },
+        {
+            "bopomofo": "ㄅㄧˋ ㄇㄧㄢˇ",
+            "phrase": "避免"
+        },
+        {
+            "bopomofo": "ㄉㄨㄟˋ ㄒㄧㄤˋ",
+            "phrase": "對象"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄌㄧˇ",
+            "phrase": "生理"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄓㄨㄥ",
+            "phrase": "時鐘"
+        },
+        {
+            "bopomofo": "ㄕㄡ ㄌㄧㄢˋ",
+            "phrase": "收斂"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥˋ ㄒㄧㄣ",
+            "phrase": "重心"
+        },
+        {
+            "bopomofo": "ㄗˋ ㄨㄛˇ",
+            "phrase": "自我"
+        },
+        {
+            "bopomofo": "ㄎㄞ ㄒㄧㄣ",
+            "phrase": "開心"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄍㄨㄟ",
+            "phrase": "回歸"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄙㄨㄛˇ",
+            "phrase": "我所"
+        },
+        {
+            "bopomofo": "ㄍㄨㄛˋ ㄉㄜ˙",
+            "phrase": "過得"
+        },
+        {
+            "bopomofo": "ㄨㄟˇ ㄑㄩ",
+            "phrase": "委屈"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄒㄩˇ",
+            "phrase": "期許"
+        },
+        {
+            "bopomofo": "ㄍㄥˋ ㄏㄠˇ",
+            "phrase": "更好"
+        },
+        {
+            "bopomofo": "ㄑㄩ ㄒㄧㄤˋ",
+            "phrase": "趨向"
+        },
+        {
+            "bopomofo": "ㄍㄨㄟ ㄌㄩˋ",
+            "phrase": "規律"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄌㄞˊ",
+            "phrase": "回來"
+        },
+        {
+            "bopomofo": "ㄅㄧˇ ㄅㄨˊ ㄕㄤˋ",
+            "phrase": "比不上"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄉㄨˋ",
+            "phrase": "程度"
+        },
+        {
+            "bopomofo": "ㄒㄧㄝˇ ㄔㄥˊ ㄕˋ",
+            "phrase": "寫程式"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˋ ㄅㄨˊ ㄏㄨㄟˋ",
+            "phrase": "會不會"
+        },
+        {
+            "bopomofo": "ㄧ ㄅㄟˋ ㄗ˙",
+            "phrase": "一輩子"
+        },
+        {
+            "bopomofo": "ㄇㄢˋ ㄅㄨˋ",
+            "phrase": "漫步"
+        },
+        {
+            "bopomofo": "ㄈㄤ ㄒㄧㄤˋ",
+            "phrase": "方向"
+        },
+        {
+            "bopomofo": "ㄕㄨㄣˋ ㄓㄜ˙",
+            "phrase": "順著"
+        },
+        {
+            "bopomofo": "ㄍㄨㄟ ㄏㄨㄚˋ",
+            "phrase": "規劃"
+        },
+        {
+            "bopomofo": "ㄌㄨˋ ㄒㄧㄢˋ",
+            "phrase": "路線"
+        },
+        {
+            "bopomofo": "ㄒㄩ ㄧㄠˋ",
+            "phrase": "需要"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠ ㄍㄟˇ",
+            "phrase": "交給"
+        },
+        {
+            "bopomofo": "ㄅㄠˇ ㄔˊ",
+            "phrase": "保持"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄉㄧㄠˋ",
+            "phrase": "步調"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄕˋ ㄕㄨㄛ",
+            "phrase": "就是說"
+        },
+        {
+            "bopomofo": "ㄒㄧˊ ㄉㄜˊ",
+            "phrase": "習得"
+        },
+        {
+            "bopomofo": "ㄧ ㄅㄨˋ ㄧ ㄐㄧㄠˇ ㄧㄣˋ",
+            "phrase": "一步一腳印"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄒㄧㄝˋ",
+            "phrase": "感謝"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄋㄧㄢˊ",
+            "phrase": "十年"
+        },
+        {
+            "bopomofo": "ㄖㄨˊ ㄧ",
+            "phrase": "如一"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄔㄨ",
+            "phrase": "付出"
+        },
+        {
+            "bopomofo": "ㄨㄟ ㄌㄧˋ",
+            "phrase": "威力"
+        },
+        {
+            "bopomofo": "ㄎㄨㄟˊ ㄨㄟˊ",
+            "phrase": "睽違"
+        },
+        {
+            "bopomofo": "ㄧˊ ㄍㄜ˙ ㄩㄝˋ",
+            "phrase": "一個月"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄒㄧˊ",
+            "phrase": "複習"
+        },
+        {
+            "bopomofo": "ㄧ ㄘˋ",
+            "phrase": "一次"
+        },
+        {
+            "bopomofo": "ㄇㄧㄥˊ ㄌㄧˋ ㄕㄨㄤ ㄕㄡ",
+            "phrase": "名利雙收"
+        },
+        {
+            "bopomofo": "ㄧ ㄒㄩㄣˊ ㄓㄜ˙",
+            "phrase": "依循著"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄖㄣˊ",
+            "phrase": "世人"
+        },
+        {
+            "bopomofo": "ㄉㄠˋ ㄌㄨˋ",
+            "phrase": "道路"
+        },
+        {
+            "bopomofo": "ㄒㄩㄢˇ ㄗㄜˊ",
+            "phrase": "選擇"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄊㄢˋ",
+            "phrase": "感嘆"
+        },
+        {
+            "bopomofo": "ㄨㄟˊ ㄅㄟˋ",
+            "phrase": "違背"
+        },
+        {
+            "bopomofo": "ㄔㄨ ㄒㄧㄣ ㄋㄜ˙",
+            "phrase": "初心呢"
+        },
+        {
+            "bopomofo": "ㄉㄧˇ ㄘㄥˊ",
+            "phrase": "底層"
+        },
+        {
+            "bopomofo": "ㄩˇ ㄧㄢˊ",
+            "phrase": "語言"
+        },
+        {
+            "bopomofo": "ㄎㄨˇ ㄉㄨㄢˇ",
+            "phrase": "苦短"
+        },
+        {
+            "bopomofo": "ㄊㄨˇ ㄅㄛ ㄕㄨˇ",
+            "phrase": "土撥鼠"
+        },
+        {
+            "bopomofo": "ㄔㄨㄥˊ ㄒㄧㄣ",
+            "phrase": "重新"
+        },
+        {
+            "bopomofo": "ㄎㄠˇ ㄌㄩˋ",
+            "phrase": "考慮"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄇㄣ˙ ㄉㄜ˙",
+            "phrase": "他們的"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˋ ㄓˋ",
+            "phrase": "興致"
+        },
+        {
+            "bopomofo": "ㄧ ㄌㄞˊ",
+            "phrase": "一來"
+        },
+        {
+            "bopomofo": "ㄧ ㄅㄨˋ",
+            "phrase": "一步"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄕˋ ㄉㄠˋ",
+            "phrase": "認識到"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄓㄣˋ",
+            "phrase": "前鎮"
+        },
+        {
+            "bopomofo": "ㄙㄨㄛˇ ㄨㄟˋ ㄉㄜ˙",
+            "phrase": "所謂的"
+        },
+        {
+            "bopomofo": "ㄓㄜˊ ㄒㄩㄝˊ",
+            "phrase": "哲學"
+        },
+        {
+            "bopomofo": "ㄧ ㄒㄩㄣˊ",
+            "phrase": "依循"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄅㄚˇ",
+            "phrase": "我把"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄐㄧˋ",
+            "phrase": "日記"
+        },
+        {
+            "bopomofo": "ㄅㄧㄠ ㄑㄧㄢ",
+            "phrase": "標籤"
+        },
+        {
+            "bopomofo": "ㄍㄞˇ ㄨㄟˊ",
+            "phrase": "改為"
+        },
+        {
+            "bopomofo": "ㄓˊ ㄧㄚˊ",
+            "phrase": "職涯"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄑㄧㄥˊ",
+            "phrase": "感情"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄧㄠˋ",
+            "phrase": "不要"
+        },
+        {
+            "bopomofo": "ㄦˊ ㄧㄢˊ",
+            "phrase": "而言"
+        },
+        {
+            "bopomofo": "ㄐㄧˊ ㄕˋ",
+            "phrase": "即是"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˋ ㄑㄧˊ",
+            "phrase": "近期"
+        },
+        {
+            "bopomofo": "ㄋㄟˋ ㄒㄧㄣ",
+            "phrase": "內心"
+        },
+        {
+            "bopomofo": "ㄅㄛ ㄉㄨㄥˋ",
+            "phrase": "波動"
+        },
+        {
+            "bopomofo": "ㄍㄥˋ ㄉㄨㄛ",
+            "phrase": "更多"
+        },
+        {
+            "bopomofo": "ㄌㄞˊ ㄗˋ",
+            "phrase": "來自"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄗㄞˋ ㄕˋ",
+            "phrase": "不再是"
+        },
+        {
+            "bopomofo": "ㄑㄩ ㄅㄧㄝˊ",
+            "phrase": "區別"
+        },
+        {
+            "bopomofo": "ㄇㄧㄥˊ ㄑㄩㄝˋ",
+            "phrase": "明確"
+        },
+        {
+            "bopomofo": "ㄓㄨㄟ ㄑㄧㄡˊ",
+            "phrase": "追求"
+        },
+        {
+            "bopomofo": "ㄔㄨㄢˊ ㄊㄨㄥˇ",
+            "phrase": "傳統"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄉㄨㄢ ㄐㄧ",
+            "phrase": "終端機"
+        },
+        {
+            "bopomofo": "ㄏㄣˇ ㄉㄨㄛ",
+            "phrase": "很多"
+        },
+        {
+            "bopomofo": "ㄐㄩㄝˊ ㄉㄧㄥˋ",
+            "phrase": "決定"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄉㄠˋ",
+            "phrase": "再到"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄇㄟˊ",
+            "phrase": "我沒"
+        },
+        {
+            "bopomofo": "ㄊㄜˋ ㄅㄧㄝˊ",
+            "phrase": "特別"
+        },
+        {
+            "bopomofo": "ㄧㄢˊ ㄐㄧㄡˋ",
+            "phrase": "研究"
+        },
+        {
+            "bopomofo": "ㄅㄣˇ ㄌㄞˊ",
+            "phrase": "本來"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄧㄡˇ",
+            "phrase": "也有"
+        },
+        {
+            "bopomofo": "ㄧㄡˊ ㄩˋ",
+            "phrase": "猶豫"
+        },
+        {
+            "bopomofo": "ㄓˊ ㄉㄠˋ",
+            "phrase": "直到"
+        },
+        {
+            "bopomofo": "ㄏㄠˋ ㄑㄧˊ",
+            "phrase": "好奇"
+        },
+        {
+            "bopomofo": "ㄙㄨㄢˋ ㄌㄜ˙",
+            "phrase": "算了"
+        },
+        {
+            "bopomofo": "ㄧ ㄒㄧㄚˋ",
+            "phrase": "一下"
+        },
+        {
+            "bopomofo": "ㄗˋ ㄊㄧˇ",
+            "phrase": "字體"
+        },
+        {
+            "bopomofo": "ㄅㄧˇ ㄉㄧㄢˋ",
+            "phrase": "筆電"
+        },
+        {
+            "bopomofo": "ㄧㄥˊ ㄇㄨˋ",
+            "phrase": "螢幕"
+        },
+        {
+            "bopomofo": "ㄉㄨㄟˋ ㄅㄧˇ",
+            "phrase": "對比"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄅㄨˋ",
+            "phrase": "再不"
+        },
+        {
+            "bopomofo": "ㄑㄧㄥˊ ㄎㄨㄤˋ",
+            "phrase": "情況"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄉㄚˋ",
+            "phrase": "最大"
+        },
+        {
+            "bopomofo": "ㄎㄨㄢ ㄉㄨˋ",
+            "phrase": "寬度"
+        },
+        {
+            "bopomofo": "ㄓㄥˋ ㄏㄠˇ ㄕˋ",
+            "phrase": "正好是"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄕㄚˊ",
+            "phrase": "為啥"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄒㄧㄠˇ",
+            "phrase": "大小"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄗㄨㄛˋ",
+            "phrase": "工作"
+        },
+        {
+            "bopomofo": "ㄐㄧ ㄒㄧㄠˋ",
+            "phrase": "績效"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄧㄝˇ ㄏㄨㄟˋ",
+            "phrase": "我也會"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄇㄚˇ",
+            "phrase": "以碼"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˋ ㄧㄡˇ",
+            "phrase": "會友"
+        },
+        {
+            "bopomofo": "ㄒㄩㄣˊ ㄓㄠˇ",
+            "phrase": "尋找"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄨㄟˊ",
+            "phrase": "成為"
+        },
+        {
+            "bopomofo": "ㄌㄨˋ ㄕㄤˋ",
+            "phrase": "路上"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝ ㄉㄨㄢˋ",
+            "phrase": "階段"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄇㄟˊ",
+            "phrase": "還沒"
+        },
+        {
+            "bopomofo": "ㄧ ㄕˋ",
+            "phrase": "一是"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄉㄚˋ",
+            "phrase": "以大"
+        },
+        {
+            "bopomofo": "ㄇㄨˋ ㄅㄧㄠ",
+            "phrase": "目標"
+        },
+        {
+            "bopomofo": "ㄦˋ ㄕˋ",
+            "phrase": "二世"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˋ ㄕㄤˇ",
+            "phrase": "鑑賞"
+        },
+        {
+            "bopomofo": "ㄒㄧˋ ㄌㄧㄝˋ",
+            "phrase": "系列"
+        },
+        {
+            "bopomofo": "ㄉㄨˊ ㄕㄨ ㄏㄨㄟˋ",
+            "phrase": "讀書會"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄍㄨㄟˇ ㄉㄠˋ",
+            "phrase": "上軌道"
+        },
+        {
+            "bopomofo": "ㄓˋ ㄊㄨㄥˊ ㄉㄠˋ ㄏㄜˊ",
+            "phrase": "志同道合"
+        },
+        {
+            "bopomofo": "ㄆㄥˊ ㄧㄡˇ",
+            "phrase": "朋友"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄈㄤ",
+            "phrase": "地方"
+        },
+        {
+            "bopomofo": "ㄅㄚˇ ㄨㄛˋ",
+            "phrase": "把握"
+        },
+        {
+            "bopomofo": "ㄧ ㄇㄣˊ",
+            "phrase": "一門"
+        },
+        {
+            "bopomofo": "ㄧ ㄅㄣˇ ㄕㄨ",
+            "phrase": "一本書"
+        },
+        {
+            "bopomofo": "ㄆㄧㄣˇ ㄨㄟˋ",
+            "phrase": "品味"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄧㄝˋ",
+            "phrase": "專業"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄌㄧㄥˊ",
+            "phrase": "心靈"
+        },
+        {
+            "bopomofo": "ㄙㄨˋ ㄧㄤˇ",
+            "phrase": "素養"
+        },
+        {
+            "bopomofo": "ㄆㄟˊ ㄧㄤˇ",
+            "phrase": "培養"
+        },
+        {
+            "bopomofo": "ㄍㄠ ㄒㄧㄠˋ ㄋㄥˊ",
+            "phrase": "高效能"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄕˋ ㄕㄜˋ ㄐㄧˋ",
+            "phrase": "程式設計"
+        },
+        {
+            "bopomofo": "ㄩㄝˋ ㄉㄨˊ",
+            "phrase": "閱讀"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄓㄢˋ",
+            "phrase": "實戰"
+        },
+        {
+            "bopomofo": "ㄌㄧㄥˇ ㄩˋ",
+            "phrase": "領域"
+        },
+        {
+            "bopomofo": "ㄑㄩ ㄉㄨㄥˋ",
+            "phrase": "驅動"
+        },
+        {
+            "bopomofo": "ㄕㄜˋ ㄐㄧˋ",
+            "phrase": "設計"
+        },
+        {
+            "bopomofo": "ㄊㄧㄢ ㄨㄣˊ ㄒㄩㄝˊ ㄐㄧㄚ",
+            "phrase": "天文學家"
+        },
+        {
+            "bopomofo": "ㄨˋ ㄌㄧˇ ㄒㄩㄝˊ",
+            "phrase": "物理學"
+        },
+        {
+            "bopomofo": "ㄜˋ ㄇㄛˊ",
+            "phrase": "惡魔"
+        },
+        {
+            "bopomofo": "ㄉㄨㄟˋ ㄏㄨㄚˋ",
+            "phrase": "對話"
+        },
+        {
+            "bopomofo": "ㄘㄨㄟˋ ㄑㄩˇ",
+            "phrase": "萃取"
+        },
+        {
+            "bopomofo": "ㄅㄞˇ ㄎㄜ",
+            "phrase": "百科"
+        },
+        {
+            "bopomofo": "ㄍㄨㄢˋ ㄐㄩㄣ",
+            "phrase": "冠軍"
+        },
+        {
+            "bopomofo": "ㄎㄚ ㄈㄟ",
+            "phrase": "咖啡"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄨㄣˊ",
+            "phrase": "日文"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄏㄨㄛˇ",
+            "phrase": "野火"
+        },
+        {
+            "bopomofo": "ㄕ ㄈㄨˋ",
+            "phrase": "師父"
+        },
+        {
+            "bopomofo": "ㄏㄨㄛˇ ㄓㄨㄥˇ",
+            "phrase": "火種"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄅㄧㄢ",
+            "phrase": "新編"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄩˇ",
+            "phrase": "日語"
+        },
+        {
+            "bopomofo": "ㄔㄚˊ ㄉㄠˋ",
+            "phrase": "茶道"
+        },
+        {
+            "bopomofo": "ㄊㄞˋ ㄐㄧˊ",
+            "phrase": "太極"
+        },
+        {
+            "bopomofo": "ㄎㄜˋ ㄔㄥˊ",
+            "phrase": "課程"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢˋ ㄕㄤˋ",
+            "phrase": "線上"
+        },
+        {
+            "bopomofo": "ㄒㄩㄝˊ ㄗˇ",
+            "phrase": "學籽"
+        },
+        {
+            "bopomofo": "ㄩˇ ㄍㄢˇ",
+            "phrase": "語感"
+        },
+        {
+            "bopomofo": "ㄧㄤˇ ㄔㄥˊ",
+            "phrase": "養成"
+        },
+        {
+            "bopomofo": "ㄓ ㄕˋ",
+            "phrase": "知識"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄒㄧㄥ",
+            "phrase": "衛星"
+        },
+        {
+            "bopomofo": "ㄏㄨㄚˊ ㄊㄨㄛˊ",
+            "phrase": "華佗"
+        },
+        {
+            "bopomofo": "ㄔㄨㄢˊ ㄖㄣˊ",
+            "phrase": "傳人"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄔㄤˊ ㄕㄥ ㄏㄨㄛˊ",
+            "phrase": "日常生活"
+        },
+        {
+            "bopomofo": "ㄍㄨˋ ㄕˋ",
+            "phrase": "故事"
+        },
+        {
+            "bopomofo": "ㄒㄧㄡ ㄧㄤˇ",
+            "phrase": "修養"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢ ㄢˋ",
+            "phrase": "專案"
+        },
+        {
+            "bopomofo": "ㄆㄚˊ ㄕㄢ",
+            "phrase": "爬山"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄉㄨㄢ",
+            "phrase": "前端"
+        },
+        {
+            "bopomofo": "ㄌㄧㄤˇ ㄍㄜ˙",
+            "phrase": "兩個"
+        },
+        {
+            "bopomofo": "ㄉㄨˊ ㄉㄠˋ",
+            "phrase": "讀到"
+        },
+        {
+            "bopomofo": "ㄕㄨ ㄅㄣˇ",
+            "phrase": "書本"
+        },
+        {
+            "bopomofo": "ㄗㄨㄛˋ ㄉㄠˋ",
+            "phrase": "做到"
+        },
+        {
+            "bopomofo": "ㄐㄧㄠ ㄉㄧㄢˇ",
+            "phrase": "焦點"
+        },
+        {
+            "bopomofo": "ㄅㄟˋ ㄒㄩㄢˇ",
+            "phrase": "備選"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄏㄨㄛˊ",
+            "phrase": "生活"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄦˋ",
+            "phrase": "第二"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˋ ㄑㄩˋ",
+            "phrase": "興趣"
+        },
+        {
+            "bopomofo": "ㄒㄧㄡ ㄒㄧˊ",
+            "phrase": "休息"
+        },
+        {
+            "bopomofo": "ㄧㄢˊ ㄐㄧㄡˋ ㄩㄢˋ",
+            "phrase": "研究院"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣ ㄧㄠˋ",
+            "phrase": "金鑰"
+        },
+        {
+            "bopomofo": "ㄐㄧˇ ㄊㄞˊ",
+            "phrase": "幾台"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥ ㄐㄧˋ",
+            "phrase": "星際"
+        },
+        {
+            "bopomofo": "ㄏㄨㄞˊ ㄩㄣˋ",
+            "phrase": "懷孕"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄓㄜ˙",
+            "phrase": "試著"
+        },
+        {
+            "bopomofo": "ㄇㄢˇ ㄗㄨˊ",
+            "phrase": "滿足"
+        },
+        {
+            "bopomofo": "ㄑㄧˋ ㄩㄝ",
+            "phrase": "契約"
+        },
+        {
+            "bopomofo": "ㄅㄣˇ ㄕㄣ",
+            "phrase": "本身"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄧㄡˇ",
+            "phrase": "就有"
+        },
+        {
+            "bopomofo": "ㄅㄠ ㄏㄢˊ",
+            "phrase": "包含"
+        },
+        {
+            "bopomofo": "ㄓㄣ ㄉㄨㄟˋ",
+            "phrase": "針對"
+        },
+        {
+            "bopomofo": "ㄓ ㄔㄨˋ",
+            "phrase": "之處"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄅㄣˇ",
+            "phrase": "日本"
+        },
+        {
+            "bopomofo": "ㄗㄨㄥˋ ㄏㄜˊ",
+            "phrase": "綜合"
+        },
+        {
+            "bopomofo": "ㄍㄜˊ ㄉㄡˋ",
+            "phrase": "格鬥"
+        },
+        {
+            "bopomofo": "ㄅㄢˋ ㄧㄢˇ",
+            "phrase": "扮演"
+        },
+        {
+            "bopomofo": "ㄕㄨ ㄕㄥ",
+            "phrase": "書生"
+        },
+        {
+            "bopomofo": "ㄌㄜˋ ㄙㄜˋ",
+            "phrase": "垃圾"
+        },
+        {
+            "bopomofo": "ㄐㄧㄚˋ ㄑㄧㄢˊ",
+            "phrase": "價錢"
+        },
+        {
+            "bopomofo": "ㄩㄣˊ ㄒㄧㄤˋ",
+            "phrase": "雲象"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄊㄧㄢ",
+            "phrase": "一天"
+        },
+        {
+            "bopomofo": "ㄨㄢˇ ㄕㄤˋ",
+            "phrase": "晚上"
+        },
+        {
+            "bopomofo": "ㄖˋ ㄗ˙",
+            "phrase": "日子"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄊㄡˊ",
+            "phrase": "回頭"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄐㄩㄝˊ",
+            "phrase": "感覺"
+        },
+        {
+            "bopomofo": "ㄆㄧㄥˊ ㄈㄢˊ",
+            "phrase": "平凡"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˊ ㄕㄨˋ",
+            "phrase": "結束"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄒㄧㄤˋ",
+            "phrase": "好像"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄘㄨㄛˋ",
+            "phrase": "不錯"
+        },
+        {
+            "bopomofo": "ㄊㄞˋ ㄋㄢˊ",
+            "phrase": "太難"
+        },
+        {
+            "bopomofo": "ㄍㄨㄛˋ ㄌㄜ˙",
+            "phrase": "過了"
+        },
+        {
+            "bopomofo": "ㄏㄚ ㄏㄚ",
+            "phrase": "哈哈"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄉㄜ˙",
+            "phrase": "她的"
+        },
+        {
+            "bopomofo": "ㄍㄨㄢ ㄒㄧˋ",
+            "phrase": "關係"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄕˋ ㄏㄜˊ",
+            "phrase": "最適合"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄕˋ",
+            "phrase": "她是"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄗㄞˋ",
+            "phrase": "我在"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄧˋ",
+            "phrase": "在意"
+        },
+        {
+            "bopomofo": "ㄌㄧˊ ㄎㄞ",
+            "phrase": "離開"
+        },
+        {
+            "bopomofo": "ㄌㄠˇ ㄕˊ ㄕㄨㄛ",
+            "phrase": "老實說"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄨㄟˊ",
+            "phrase": "以為"
+        },
+        {
+            "bopomofo": "ㄑㄧㄥˊ ㄍㄢˇ",
+            "phrase": "情感"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢ ㄍㄨㄚˋ",
+            "phrase": "牽掛"
+        },
+        {
+            "bopomofo": "ㄈㄚ ㄒㄧㄢˋ",
+            "phrase": "發現"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄒㄧㄥˊ",
+            "phrase": "不行"
+        },
+        {
+            "bopomofo": "ㄧㄥ ㄍㄞ ㄕˋ",
+            "phrase": "應該是"
+        },
+        {
+            "bopomofo": "ㄅㄧㄝˊ ㄌㄧˊ",
+            "phrase": "別離"
+        },
+        {
+            "bopomofo": "ㄈㄢ ㄑㄧˇ",
+            "phrase": "翻起"
+        },
+        {
+            "bopomofo": "ㄅㄛ ㄌㄢˊ",
+            "phrase": "波蘭"
+        },
+        {
+            "bopomofo": "ㄅㄧˋ ㄧㄝˋ",
+            "phrase": "畢業"
+        },
+        {
+            "bopomofo": "ㄈㄣ ㄅㄧㄝˊ",
+            "phrase": "分別"
+        },
+        {
+            "bopomofo": "ㄍㄠ ㄓㄨㄥ",
+            "phrase": "高中"
+        },
+        {
+            "bopomofo": "ㄍㄨ ㄠˋ",
+            "phrase": "孤傲"
+        },
+        {
+            "bopomofo": "ㄧ ㄉㄧㄢˇ",
+            "phrase": "一點"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˋ ㄍㄜˊ",
+            "phrase": "性格"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄒㄩㄝˊ",
+            "phrase": "大學"
+        },
+        {
+            "bopomofo": "ㄑㄩㄢ ㄗ˙",
+            "phrase": "圈子"
+        },
+        {
+            "bopomofo": "ㄍㄥˋ ㄒㄧㄠˇ",
+            "phrase": "更小"
+        },
+        {
+            "bopomofo": "ㄔㄨㄥ ㄐㄧㄥˇ",
+            "phrase": "憧憬"
+        },
+        {
+            "bopomofo": "ㄅㄧㄢˋ ㄒㄧㄠˇ",
+            "phrase": "變小"
+        },
+        {
+            "bopomofo": "ㄕㄥˋ ㄍㄨㄛˋ",
+            "phrase": "勝過"
+        },
+        {
+            "bopomofo": "ㄐㄧ ㄏㄨ",
+            "phrase": "幾乎"
+        },
+        {
+            "bopomofo": "ㄌㄧㄡˊ ㄒㄩㄝˊ",
+            "phrase": "留學"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄐㄧㄢ",
+            "phrase": "期間"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄓㄣ",
+            "phrase": "認真"
+        },
+        {
+            "bopomofo": "ㄕㄨㄛ ㄕˋ",
+            "phrase": "說是"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄗˋ ㄐㄧˇ",
+            "phrase": "我自己"
+        },
+        {
+            "bopomofo": "ㄓㄨˊ ㄐㄧㄢˋ",
+            "phrase": "逐漸"
+        },
+        {
+            "bopomofo": "ㄗㄡˇ ㄒㄧㄤˋ",
+            "phrase": "走向"
+        },
+        {
+            "bopomofo": "ㄉㄨˊ ㄌㄧˋ",
+            "phrase": "獨立"
+        },
+        {
+            "bopomofo": "ㄍㄨ ㄉㄢ",
+            "phrase": "孤單"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄕㄡˋ",
+            "phrase": "享受"
+        },
+        {
+            "bopomofo": "ㄍㄨㄛˋ ㄔㄥˊ",
+            "phrase": "過程"
+        },
+        {
+            "bopomofo": "ㄩㄢˊ ㄈㄣˋ",
+            "phrase": "緣份"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄖㄤˋ",
+            "phrase": "就讓"
+        },
+        {
+            "bopomofo": "ㄑㄩˋ ㄅㄚ˙",
+            "phrase": "去吧"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄌㄧˇ",
+            "phrase": "心裡"
+        },
+        {
+            "bopomofo": "ㄏㄨㄛˊ ㄗㄞˋ",
+            "phrase": "活在"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄘˋ",
+            "phrase": "上次"
+        },
+        {
+            "bopomofo": "ㄑㄧㄥˊ ㄒㄩˋ",
+            "phrase": "情緒"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄒㄩㄝˊ",
+            "phrase": "小學"
+        },
+        {
+            "bopomofo": "ㄗˇ ㄒㄧˋ ㄒㄧㄤˇ",
+            "phrase": "仔細想"
+        },
+        {
+            "bopomofo": "ㄧ ㄒㄧㄤˇ",
+            "phrase": "一想"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄓㄤˇ",
+            "phrase": "成長"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢˋ ㄗㄞˋ",
+            "phrase": "現在"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄌㄜ˙",
+            "phrase": "成了"
+        },
+        {
+            "bopomofo": "ㄒㄧˇ ㄏㄨㄢ",
+            "phrase": "喜歡"
+        },
+        {
+            "bopomofo": "ㄧㄤˋ ㄗ˙",
+            "phrase": "樣子"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˊ ㄉㄠˋ",
+            "phrase": "回到"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄓˋ",
+            "phrase": "心智"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄒㄧㄠˇ",
+            "phrase": "還小"
+        },
+        {
+            "bopomofo": "ㄈㄚ ㄗˋ ㄋㄟˋ ㄒㄧㄣ",
+            "phrase": "發自內心"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄧㄠˋ",
+            "phrase": "想要"
+        },
+        {
+            "bopomofo": "ㄩㄥˋ ㄖㄨˊ",
+            "phrase": "用如"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄏㄞˊ",
+            "phrase": "小孩"
+        },
+        {
+            "bopomofo": "ㄊㄧㄢ ㄓㄣ ㄨˊ ㄒㄧㄝˊ",
+            "phrase": "天真無邪"
+        },
+        {
+            "bopomofo": "ㄔㄨ ㄒㄧㄣ",
+            "phrase": "初心"
+        },
+        {
+            "bopomofo": "ㄇㄧㄢˋ ㄉㄨㄟˋ",
+            "phrase": "面對"
+        },
+        {
+            "bopomofo": "ㄓㄥˋ ㄕˋ",
+            "phrase": "正是"
+        },
+        {
+            "bopomofo": "ㄈㄤˋ ㄒㄧㄚˋ",
+            "phrase": "放下"
+        },
+        {
+            "bopomofo": "ㄎㄜˋ ㄧˋ",
+            "phrase": "刻意"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˊ ㄖㄢˊ ㄧˋ ㄕㄣ",
+            "phrase": "孑然一身"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄉㄠˋ",
+            "phrase": "想到"
+        },
+        {
+            "bopomofo": "ㄕㄣ ㄅㄧㄢ",
+            "phrase": "身邊"
+        },
+        {
+            "bopomofo": "ㄉㄚˇ ㄔㄥˊ ㄧ ㄆㄧㄢˋ",
+            "phrase": "打成一片"
+        },
+        {
+            "bopomofo": "ㄊㄨㄥˊ ㄕˊ",
+            "phrase": "同時"
+        },
+        {
+            "bopomofo": "ㄇㄢˋ ㄇㄢˋ",
+            "phrase": "慢慢"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄙㄨㄢˋ",
+            "phrase": "就算"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄧˋ",
+            "phrase": "有意"
+        },
+        {
+            "bopomofo": "ㄨˊ ㄧˋ",
+            "phrase": "無意"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄐㄧㄡˋ ㄏㄨㄟˋ",
+            "phrase": "終就會"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥ ㄌㄧˋ",
+            "phrase": "經歷"
+        },
+        {
+            "bopomofo": "ㄧ ㄑㄧㄝˋ",
+            "phrase": "一切"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄍㄨㄛˋ ㄐㄧㄥˋ ㄑㄧㄢ",
+            "phrase": "事過境遷"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄏㄨㄟˋ",
+            "phrase": "就會"
+        },
+        {
+            "bopomofo": "ㄈㄨˊ ㄩㄣˊ",
+            "phrase": "浮雲"
+        },
+        {
+            "bopomofo": "ㄋㄟˋ ㄒㄧㄣ ㄕㄣ ㄔㄨˋ",
+            "phrase": "內心深處"
+        },
+        {
+            "bopomofo": "ㄌㄧㄠˇ ㄐㄧㄝˇ",
+            "phrase": "了解"
+        },
+        {
+            "bopomofo": "ㄩˋ ㄉㄠˋ",
+            "phrase": "遇到"
+        },
+        {
+            "bopomofo": "ㄐㄩㄝˊ ㄉㄚˋ ㄅㄨˋ ㄈㄣˋ",
+            "phrase": "絕大部分"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˇ ㄐㄧㄣˇ ㄕˋ",
+            "phrase": "僅僅是"
+        },
+        {
+            "bopomofo": "ㄍㄨㄛˋ ㄎㄜˋ",
+            "phrase": "過客"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄎㄜˇ ㄅㄧˋ ㄇㄧㄢˇ",
+            "phrase": "不可避免"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄕˋ ㄏㄨㄟˋ",
+            "phrase": "還是會"
+        },
+        {
+            "bopomofo": "ㄌㄧㄡˊ ㄌㄧㄢˋ",
+            "phrase": "留戀"
+        },
+        {
+            "bopomofo": "ㄏㄜˊ ㄆㄞ",
+            "phrase": "合拍"
+        },
+        {
+            "bopomofo": "ㄇㄡˇ ㄒㄧㄝ",
+            "phrase": "某些"
+        },
+        {
+            "bopomofo": "ㄈㄤ ㄇㄧㄢˋ",
+            "phrase": "方面"
+        },
+        {
+            "bopomofo": "ㄆㄧㄣˊ ㄌㄩˋ",
+            "phrase": "頻率"
+        },
+        {
+            "bopomofo": "ㄅㄛ ㄌㄢˊ",
+            "phrase": "波瀾"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄐㄧㄡˋ ㄕˋ",
+            "phrase": "也就是"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄊㄞˋ",
+            "phrase": "心態"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄕㄡˊ",
+            "phrase": "成熟"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄐㄧㄝˋ",
+            "phrase": "世界"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄇㄧㄢˋ",
+            "phrase": "負面"
+        },
+        {
+            "bopomofo": "ㄋㄥˊ ㄌㄧㄤˋ",
+            "phrase": "能量"
+        },
+        {
+            "bopomofo": "ㄔㄨㄥ ㄔˋ",
+            "phrase": "充斥"
+        },
+        {
+            "bopomofo": "ㄋㄚˋ ㄒㄧㄤˋ",
+            "phrase": "那項"
+        },
+        {
+            "bopomofo": "ㄋㄚˋ ㄧㄤˋ",
+            "phrase": "那樣"
+        },
+        {
+            "bopomofo": "ㄋㄩˇ ㄕㄥ",
+            "phrase": "女生"
+        },
+        {
+            "bopomofo": "ㄓˋ ㄕㄠˇ ㄗㄞˋ",
+            "phrase": "至少在"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄇㄧㄥˋ",
+            "phrase": "生命"
+        },
+        {
+            "bopomofo": "ㄩˋ ㄗㄨˊ",
+            "phrase": "鬱卒"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄏㄡˋ",
+            "phrase": "時候"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄨˇ",
+            "phrase": "中午"
+        },
+        {
+            "bopomofo": "ㄧ ㄐㄧˇ",
+            "phrase": "一己"
+        },
+        {
+            "bopomofo": "ㄓ ㄌㄧˋ",
+            "phrase": "之力"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄓㄨㄥ",
+            "phrase": "心中"
+        },
+        {
+            "bopomofo": "ㄈㄤˋ ㄇㄢˇ",
+            "phrase": "放滿"
+        },
+        {
+            "bopomofo": "ㄔㄚˊ ㄐㄧ",
+            "phrase": "茶几"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢ ㄌㄜ˙",
+            "phrase": "掀了"
+        },
+        {
+            "bopomofo": "ㄍㄨㄛˋ ㄑㄩˋ",
+            "phrase": "過去"
+        },
+        {
+            "bopomofo": "ㄏㄨㄤˊ ㄕㄨ ㄩˊ",
+            "phrase": "黃書榆"
+        },
+        {
+            "bopomofo": "ㄒㄧ ㄨㄤˋ",
+            "phrase": "希望"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄕˋ",
+            "phrase": "他是"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄕㄥ",
+            "phrase": "一生"
+        },
+        {
+            "bopomofo": "ㄨㄢˊ ㄅㄢˋ",
+            "phrase": "玩伴"
+        },
+        {
+            "bopomofo": "ㄉㄧㄢˋ ㄧㄥˇ",
+            "phrase": "電影"
+        },
+        {
+            "bopomofo": "ㄗㄨ ㄐㄧㄝˋ",
+            "phrase": "租借"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄐㄧㄢ",
+            "phrase": "時間"
+        },
+        {
+            "bopomofo": "ㄊㄚ ㄌㄞˊ",
+            "phrase": "他來"
+        },
+        {
+            "bopomofo": "ㄓㄤˋ ㄏㄠˋ",
+            "phrase": "帳號"
+        },
+        {
+            "bopomofo": "ㄨㄞˋ ㄌㄧㄡˊ",
+            "phrase": "外流"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄒㄧㄤˇ",
+            "phrase": "我想"
+        },
+        {
+            "bopomofo": "ㄌㄞˊ ㄎㄢˋ",
+            "phrase": "來看"
+        },
+        {
+            "bopomofo": "ㄩˇ ㄊㄧㄢ",
+            "phrase": "雨天"
+        },
+        {
+            "bopomofo": "ㄔ ㄈㄢˋ",
+            "phrase": "吃飯"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄉㄞˋ",
+            "phrase": "期待"
+        },
+        {
+            "bopomofo": "ㄧ ㄑㄧˇ",
+            "phrase": "一起"
+        },
+        {
+            "bopomofo": "ㄕㄨㄤ ㄖㄣˊ",
+            "phrase": "雙人"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄒㄧㄥˊ",
+            "phrase": "成行"
+        },
+        {
+            "bopomofo": "ㄍㄨㄢ ㄨㄤˋ",
+            "phrase": "觀望"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄐㄧㄡˇ",
+            "phrase": "好久"
+        },
+        {
+            "bopomofo": "ㄌㄧㄣˊ ㄗㄡˇ",
+            "phrase": "臨走"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄑㄩˋ",
+            "phrase": "前去"
+        },
+        {
+            "bopomofo": "ㄋㄚˊ ㄍㄜ˙",
+            "phrase": "拿個"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄕㄥ ㄓˇ",
+            "phrase": "衛生紙"
+        },
+        {
+            "bopomofo": "ㄊㄧˊ ㄑㄧˇ",
+            "phrase": "提起"
+        },
+        {
+            "bopomofo": "ㄩㄣˋ ㄗㄨㄛˋ",
+            "phrase": "運作"
+        },
+        {
+            "bopomofo": "ㄩㄝˋ ㄐㄧㄤˇ ㄩㄝˋ",
+            "phrase": "越講越"
+        },
+        {
+            "bopomofo": "ㄔㄣˊ ㄓㄨㄥˋ",
+            "phrase": "沈重"
+        },
+        {
+            "bopomofo": "ㄐㄩㄝˊ ㄉㄜˊ",
+            "phrase": "覺得"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄗㄞˋ",
+            "phrase": "好在"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄗㄞˋ",
+            "phrase": "也在"
+        },
+        {
+            "bopomofo": "ㄉㄨㄟˋ ㄩˊ",
+            "phrase": "對於"
+        },
+        {
+            "bopomofo": "ㄌㄧˇ ㄐㄧㄣ",
+            "phrase": "禮金"
+        },
+        {
+            "bopomofo": "ㄏㄨㄣ ㄙㄤ ㄑㄧˇ ㄑㄧㄥˋ",
+            "phrase": "婚喪起慶"
+        },
+        {
+            "bopomofo": "ㄏㄨㄣ ㄙㄤ ㄒㄧˇ ㄑㄧㄥˋ",
+            "phrase": "婚喪喜慶"
+        },
+        {
+            "bopomofo": "ㄓㄨㄢˇ ㄧˊ",
+            "phrase": "轉移"
+        },
+        {
+            "bopomofo": "ㄓㄥˋ ㄘㄜˋ",
+            "phrase": "政策"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟˋ ㄉㄜ˙",
+            "phrase": "會的"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄈㄚˇ",
+            "phrase": "想法"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄍㄜ˙",
+            "phrase": "是個"
+        },
+        {
+            "bopomofo": "ㄔㄡˋ ㄓˊ ㄋㄢˊ",
+            "phrase": "臭直男"
+        },
+        {
+            "bopomofo": "ㄨㄞˋ ㄐㄧㄚ",
+            "phrase": "外加"
+        },
+        {
+            "bopomofo": "ㄓㄨ ㄉㄨㄛ",
+            "phrase": "諸多"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄒㄧㄣ",
+            "phrase": "小心"
+        },
+        {
+            "bopomofo": "ㄎㄜˇ ㄋㄥˊ",
+            "phrase": "可能"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄕㄡˋ",
+            "phrase": "感受"
+        },
+        {
+            "bopomofo": "ㄉㄜˊ ㄉㄠˋ",
+            "phrase": "得到"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢ ㄑㄧㄢˊ",
+            "phrase": "先前"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄕˇ",
+            "phrase": "歷史"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄓㄥˋ",
+            "phrase": "認證"
+        },
+        {
+            "bopomofo": "ㄌㄠˇ ㄅㄢˇ",
+            "phrase": "老闆"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄗ˙",
+            "phrase": "孩子"
+        },
+        {
+            "bopomofo": "ㄓㄥ ㄑㄩˇ",
+            "phrase": "爭取"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄉㄨㄢˋ",
+            "phrase": "這段"
+        },
+        {
+            "bopomofo": "ㄩˊ ㄎㄨㄞˋ",
+            "phrase": "愉快"
+        },
+        {
+            "bopomofo": "ㄍㄥˋ ㄐㄧㄚ",
+            "phrase": "更加"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢ ㄉㄧㄥˋ",
+            "phrase": "堅定"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄔㄤˇ",
+            "phrase": "立場"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄙˇ",
+            "phrase": "誓死"
+        },
+        {
+            "bopomofo": "ㄨㄟˊ ㄏㄨˋ",
+            "phrase": "維護"
+        },
+        {
+            "bopomofo": "ㄓˊ ㄍㄨㄥ",
+            "phrase": "職工"
+        },
+        {
+            "bopomofo": "ㄈㄨˊ ㄌㄧˋ",
+            "phrase": "福利"
+        },
+        {
+            "bopomofo": "ㄅㄠˇ ㄌㄧㄡˊ",
+            "phrase": "保留"
+        },
+        {
+            "bopomofo": "ㄓˋ ㄕㄠˇ",
+            "phrase": "至少"
+        },
+        {
+            "bopomofo": "ㄅㄚ ㄔㄥˊ",
+            "phrase": "八成"
+        },
+        {
+            "bopomofo": "ㄌㄧㄡˊ ㄉㄨㄥˋ",
+            "phrase": "流動"
+        },
+        {
+            "bopomofo": "ㄗ ㄒㄧㄣ",
+            "phrase": "資心"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄅㄟˋ",
+            "phrase": "不被"
+        },
+        {
+            "bopomofo": "ㄗ ㄐㄧㄣ",
+            "phrase": "資金"
+        },
+        {
+            "bopomofo": "ㄇㄟˊ ㄏㄣˇ",
+            "phrase": "沒很"
+        },
+        {
+            "bopomofo": "ㄓㄡ ㄙˋ",
+            "phrase": "週四"
+        },
+        {
+            "bopomofo": "ㄘㄢ ㄐㄧㄚ",
+            "phrase": "參加"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄨㄢˊ",
+            "phrase": "好玩"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄇㄧㄢˋ",
+            "phrase": "前面"
+        },
+        {
+            "bopomofo": "ㄖㄜˋ ㄕㄣ",
+            "phrase": "熱身"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄧ ㄍㄜ˙",
+            "phrase": "第一個"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢ ㄅㄤˇ",
+            "phrase": "肩膀"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄨㄚ",
+            "phrase": "好哇"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄕㄡˇ",
+            "phrase": "人手"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄅㄧˇ",
+            "phrase": "都比"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄦˋ ㄍㄜ˙",
+            "phrase": "第二個"
+        },
+        {
+            "bopomofo": "ㄉㄤˇ ㄕㄢˇ",
+            "phrase": "擋閃"
+        },
+        {
+            "bopomofo": "ㄕㄢˇ ㄉㄤˇ",
+            "phrase": "閃擋"
+        },
+        {
+            "bopomofo": "ㄆㄟˋ ㄏㄜˊ",
+            "phrase": "配合"
+        },
+        {
+            "bopomofo": "ㄉㄨㄟˋ ㄕㄡˇ",
+            "phrase": "對手"
+        },
+        {
+            "bopomofo": "ㄗㄨˇ ㄏㄜˊ",
+            "phrase": "組合"
+        },
+        {
+            "bopomofo": "ㄐㄧˋ ㄋㄥˊ",
+            "phrase": "技能"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˇ ㄙㄨㄛˇ",
+            "phrase": "解鎖"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝ ㄓㄜ˙",
+            "phrase": "接著"
+        },
+        {
+            "bopomofo": "ㄕㄚ ㄅㄠ",
+            "phrase": "沙包"
+        },
+        {
+            "bopomofo": "ㄌㄧㄢˊ ㄒㄩˋ",
+            "phrase": "連續"
+        },
+        {
+            "bopomofo": "ㄐㄧˊ ㄉㄚˇ",
+            "phrase": "擊打"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄍㄨㄛˋ",
+            "phrase": "不過"
+        },
+        {
+            "bopomofo": "ㄐㄩˇ ㄅㄢˋ",
+            "phrase": "舉辦"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄖˋ",
+            "phrase": "生日"
+        },
+        {
+            "bopomofo": "ㄨˇ ㄩㄝˋ",
+            "phrase": "五月"
+        },
+        {
+            "bopomofo": "ㄋㄚˋ ㄕˋ",
+            "phrase": "那是"
+        },
+        {
+            "bopomofo": "ㄦˋ ㄙㄢ",
+            "phrase": "二三"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄏㄨㄟˋ",
+            "phrase": "人會"
+        },
+        {
+            "bopomofo": "ㄎㄜˇ ㄌㄧㄢˊ",
+            "phrase": "可憐"
+        },
+        {
+            "bopomofo": "ㄧㄠˋ ㄅㄨˋ",
+            "phrase": "要不"
+        },
+        {
+            "bopomofo": "ㄍㄞˇ ㄔㄥˊ",
+            "phrase": "改成"
+        },
+        {
+            "bopomofo": "ㄐㄧˋ ㄉㄨˋ",
+            "phrase": "季度"
+        },
+        {
+            "bopomofo": "ㄏㄨㄛˊ ㄉㄨㄥˋ",
+            "phrase": "活動"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄖㄤˋ",
+            "phrase": "有讓"
+        },
+        {
+            "bopomofo": "ㄋㄥˊ ㄖㄤˋ",
+            "phrase": "能讓"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄌㄞˊ",
+            "phrase": "未來"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄊㄚ",
+            "phrase": "其他"
+        },
+        {
+            "bopomofo": "ㄈㄨˊ ㄨㄟˇ",
+            "phrase": "福委"
+        },
+        {
+            "bopomofo": "ㄈㄨˋ ㄉㄢ",
+            "phrase": "負擔"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄩㄢˋ",
+            "phrase": "意願"
+        },
+        {
+            "bopomofo": "ㄅㄧˇ ㄐㄧㄠˋ",
+            "phrase": "比較"
+        },
+        {
+            "bopomofo": "ㄩˇ ㄘˇ ㄊㄨㄥˊ ㄕˊ",
+            "phrase": "與此同時"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄐㄧㄚ",
+            "phrase": "大家"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄕㄡˋ ㄉㄠˋ",
+            "phrase": "感受到"
+        },
+        {
+            "bopomofo": "ㄑㄧㄢˊ ㄏㄡˋ",
+            "phrase": "前後"
+        },
+        {
+            "bopomofo": "ㄧ ㄓˋ ㄒㄧㄥˋ",
+            "phrase": "一致性"
+        },
+        {
+            "bopomofo": "ㄑㄩㄢˊ ㄕㄣ",
+            "phrase": "全身"
+        },
+        {
+            "bopomofo": "ㄐㄧ ㄖㄡˋ",
+            "phrase": "肌肉"
+        },
+        {
+            "bopomofo": "ㄙㄨㄢ ㄊㄨㄥˋ",
+            "phrase": "酸痛"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄧㄤˋ",
+            "phrase": "這樣"
+        },
+        {
+            "bopomofo": "ㄑㄧㄤˊ ㄉㄨˋ",
+            "phrase": "強度"
+        },
+        {
+            "bopomofo": "ㄖㄨˊ ㄍㄨㄛˇ",
+            "phrase": "如果"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄓㄡ",
+            "phrase": "一週"
+        },
+        {
+            "bopomofo": "ㄌㄧㄤˇ ㄘˋ",
+            "phrase": "兩次"
+        },
+        {
+            "bopomofo": "ㄉㄜ˙ ㄏㄨㄚˋ",
+            "phrase": "的話"
+        },
+        {
+            "bopomofo": "ㄓ ㄑㄧㄢˊ",
+            "phrase": "之前"
+        },
+        {
+            "bopomofo": "ㄉㄟˇ ㄖㄤˋ",
+            "phrase": "得讓"
+        },
+        {
+            "bopomofo": "ㄉㄤ ㄑㄧㄢˊ",
+            "phrase": "當前"
+        },
+        {
+            "bopomofo": "ㄐㄧˋ ㄏㄨㄚˋ",
+            "phrase": "計畫"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄍㄜ˙",
+            "phrase": "有個"
+        },
+        {
+            "bopomofo": "ㄩㄥˇ ㄒㄩˋ",
+            "phrase": "永續"
+        },
+        {
+            "bopomofo": "ㄕㄨㄣˋ ㄉㄞˋ",
+            "phrase": "順帶"
+        },
+        {
+            "bopomofo": "ㄧ ㄊㄧˊ",
+            "phrase": "一提"
+        },
+        {
+            "bopomofo": "ㄓㄡ ㄙㄢ",
+            "phrase": "週三"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄑㄩˋ",
+            "phrase": "我去"
+        },
+        {
+            "bopomofo": "ㄋㄧㄢˊ ㄓㄨㄥ",
+            "phrase": "年中"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄧ ㄘˋ",
+            "phrase": "第一次"
+        },
+        {
+            "bopomofo": "ㄊㄞˊ ㄈㄥ",
+            "phrase": "颱風"
+        },
+        {
+            "bopomofo": "ㄩㄢˇ ㄉㄨㄢ",
+            "phrase": "遠端"
+        },
+        {
+            "bopomofo": "ㄧˇ ㄌㄞˊ",
+            "phrase": "以來"
+        },
+        {
+            "bopomofo": "ㄓˋ ㄐㄧㄣ",
+            "phrase": "至今"
+        },
+        {
+            "bopomofo": "ㄗㄡˇ ㄌㄜ˙",
+            "phrase": "走了"
+        },
+        {
+            "bopomofo": "ㄏㄟ ㄏㄟ",
+            "phrase": "嘿嘿"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄕㄨㄟˇ",
+            "phrase": "薪水"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄊㄡ",
+            "phrase": "小偷"
+        },
+        {
+            "bopomofo": "ㄊㄡ ㄊㄡ",
+            "phrase": "偷偷"
+        },
+        {
+            "bopomofo": "ㄉㄨㄥ ㄒㄧ",
+            "phrase": "東西"
+        },
+        {
+            "bopomofo": "ㄧ ㄒㄧㄚˋ ㄗ˙",
+            "phrase": "一下子"
+        },
+        {
+            "bopomofo": "ㄊㄡ ㄌㄜ˙",
+            "phrase": "偷了"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄦˋ",
+            "phrase": "十二"
+        },
+        {
+            "bopomofo": "ㄒㄧㄠˇ ㄕˊ",
+            "phrase": "小時"
+        },
+        {
+            "bopomofo": "ㄊㄧㄥˇ ㄧㄡˇ",
+            "phrase": "挺有"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄐㄧㄡˋ ㄍㄢˇ",
+            "phrase": "成就感"
+        },
+        {
+            "bopomofo": "ㄕㄨㄛ ㄍㄨㄛˋ",
+            "phrase": "說過"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄏㄨㄟˋ",
+            "phrase": "我會"
+        },
+        {
+            "bopomofo": "ㄓㄨˇ ㄉㄨㄥˋ",
+            "phrase": "主動"
+        },
+        {
+            "bopomofo": "ㄐㄧㄚ ㄕㄤˋ",
+            "phrase": "加上"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄕˊ",
+            "phrase": "工時"
+        },
+        {
+            "bopomofo": "ㄊㄡ ㄏㄨㄟˊ ㄌㄞˊ",
+            "phrase": "偷回來"
+        },
+        {
+            "bopomofo": "ㄉㄢ ㄕㄡˇ",
+            "phrase": "單手"
+        },
+        {
+            "bopomofo": "ㄔㄨㄤˇ ㄖㄨˋ",
+            "phrase": "闖入"
+        },
+        {
+            "bopomofo": "ㄧㄣ ㄇㄞˊ",
+            "phrase": "陰霾"
+        },
+        {
+            "bopomofo": "ㄈㄤ ㄈㄚˇ",
+            "phrase": "方法"
+        },
+        {
+            "bopomofo": "ㄩㄢˊ ㄗㄜˊ",
+            "phrase": "原則"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˋ ㄌㄧˋ ㄑㄧˇ ㄌㄞˊ",
+            "phrase": "建立起來"
+        },
+        {
+            "bopomofo": "ㄩㄥˋ ㄌㄞˊ",
+            "phrase": "用來"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˇ ㄧㄢˋ",
+            "phrase": "檢驗"
+        },
+        {
+            "bopomofo": "ㄅㄧㄢˋ ㄕㄨˋ",
+            "phrase": "變數"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˊ ㄊㄞˋ",
+            "phrase": "型態"
+        },
+        {
+            "bopomofo": "ㄕˇ ㄩㄥˋ ㄌㄩˋ",
+            "phrase": "使用率"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄍㄠ",
+            "phrase": "不高"
+        },
+        {
+            "bopomofo": "ㄉㄨㄥˋ ㄊㄞˋ",
+            "phrase": "動態"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˊ ㄅㄧㄝˊ",
+            "phrase": "型別"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄓㄡ",
+            "phrase": "上週"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄊㄨㄥˊ",
+            "phrase": "不同"
+        },
+        {
+            "bopomofo": "ㄗㄠˇ ㄐㄧㄡˋ",
+            "phrase": "早就"
+        },
+        {
+            "bopomofo": "ㄨㄢˊ ㄔㄥˊ",
+            "phrase": "完成"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄏㄨㄟˋ",
+            "phrase": "不會"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄖㄣˊ",
+            "phrase": "有人"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄐㄧㄢ",
+            "phrase": "這間"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄙ",
+            "phrase": "公司"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˋ ㄓˊ",
+            "phrase": "性質"
+        },
+        {
+            "bopomofo": "ㄖㄣˋ ㄨˋ",
+            "phrase": "任務"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝ ㄕㄡˇ",
+            "phrase": "接手"
+        },
+        {
+            "bopomofo": "ㄔㄨˋ ㄆㄥˋ",
+            "phrase": "觸碰"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥˋ ㄧㄠˋ",
+            "phrase": "重要"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄐㄧˊ",
+            "phrase": "不急"
+        },
+        {
+            "bopomofo": "ㄢ ㄆㄞˊ",
+            "phrase": "安排"
+        },
+        {
+            "bopomofo": "ㄘˋ ㄧㄠˋ",
+            "phrase": "次要"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄑㄧㄥˊ",
+            "phrase": "事情"
+        },
+        {
+            "bopomofo": "ㄍㄠ ㄍㄜ",
+            "phrase": "高歌"
+        },
+        {
+            "bopomofo": "ㄌㄧˊ ㄒㄧˊ",
+            "phrase": "離席"
+        },
+        {
+            "bopomofo": "ㄧ ㄈㄤ ㄇㄧㄢˋ",
+            "phrase": "一方面"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄕˋ",
+            "phrase": "也是"
+        },
+        {
+            "bopomofo": "ㄩㄢˇ ㄌㄧˊ",
+            "phrase": "遠離"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄊㄢ ㄏㄨㄣˇ ㄕㄨㄟˇ",
+            "phrase": "這灘混水"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄏㄨㄟˋ",
+            "phrase": "這會"
+        },
+        {
+            "bopomofo": "ㄔㄨˇ ㄌㄧˇ",
+            "phrase": "處理"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄇㄜ˙",
+            "phrase": "這麼"
+        },
+        {
+            "bopomofo": "ㄕㄨㄛ ㄌㄞˊ",
+            "phrase": "說來"
+        },
+        {
+            "bopomofo": "ㄈㄥˋ ㄘˋ",
+            "phrase": "諷刺"
+        },
+        {
+            "bopomofo": "ㄉㄚˇ ㄓㄜ˙",
+            "phrase": "打著"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄒㄧㄠˇ",
+            "phrase": "最小"
+        },
+        {
+            "bopomofo": "ㄍㄥ ㄉㄨㄥˋ",
+            "phrase": "更動"
+        },
+        {
+            "bopomofo": "ㄓ ㄇㄧㄥˊ",
+            "phrase": "之名"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄩㄢˋ",
+            "phrase": "不願"
+        },
+        {
+            "bopomofo": "ㄓㄥˋ ㄉㄠˋ",
+            "phrase": "正道"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄧ",
+            "phrase": "第一"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˊ ㄍㄨㄛˇ",
+            "phrase": "結果"
+        },
+        {
+            "bopomofo": "ㄍㄨㄚˋ ㄐㄧㄣˋ ㄑㄩˋ",
+            "phrase": "掛進去"
+        },
+        {
+            "bopomofo": "ㄉㄠˋ ㄌㄜ˙",
+            "phrase": "到了"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄓㄨㄥ",
+            "phrase": "其中"
+        },
+        {
+            "bopomofo": "ㄐㄩ ㄖㄢˊ",
+            "phrase": "居然"
+        },
+        {
+            "bopomofo": "ㄗㄣˇ ㄇㄜ˙",
+            "phrase": "怎麼"
+        },
+        {
+            "bopomofo": "ㄓㄣ ㄘㄜˋ",
+            "phrase": "偵測"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄉㄠˋ",
+            "phrase": "不到"
+        },
+        {
+            "bopomofo": "ㄉㄧˋ ㄦˋ ㄘˋ",
+            "phrase": "第二次"
+        },
+        {
+            "bopomofo": "ㄍㄠˇ ㄌㄜ˙",
+            "phrase": "搞了"
+        },
+        {
+            "bopomofo": "ㄑㄩ ㄕˇ",
+            "phrase": "驅使"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄐㄧˇ ㄊㄧㄢ",
+            "phrase": "這幾天"
+        },
+        {
+            "bopomofo": "ㄓ ㄏㄡˋ",
+            "phrase": "之後"
+        },
+        {
+            "bopomofo": "ㄗˋ ㄐㄧˇ",
+            "phrase": "自己"
+        },
+        {
+            "bopomofo": "ㄅㄧㄢ ㄗ˙",
+            "phrase": "鞭子"
+        },
+        {
+            "bopomofo": "ㄍㄢˇ ㄐㄧㄣˋ",
+            "phrase": "趕進"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄒㄧㄢˋ",
+            "phrase": "上線"
+        },
+        {
+            "bopomofo": "ㄧ ㄌㄧˇ",
+            "phrase": "一里"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄉㄧㄢˇ",
+            "phrase": "有點"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄙ",
+            "phrase": "意思"
+        },
+        {
+            "bopomofo": "ㄨㄣˋ ㄊㄧˊ",
+            "phrase": "問題"
+        },
+        {
+            "bopomofo": "ㄔㄨ ㄗㄞˋ",
+            "phrase": "出在"
+        },
+        {
+            "bopomofo": "ㄒㄧㄢ ㄌㄞˊ",
+            "phrase": "先來"
+        },
+        {
+            "bopomofo": "ㄕㄨㄛ ㄕㄨㄛ",
+            "phrase": "說說"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄕˋ",
+            "phrase": "這是"
+        },
+        {
+            "bopomofo": "ㄗㄠˇ ㄗㄞˋ",
+            "phrase": "早在"
+        },
+        {
+            "bopomofo": "ㄐㄧㄚ ㄖㄨˋ",
+            "phrase": "加入"
+        },
+        {
+            "bopomofo": "ㄍㄨㄥ ㄋㄥˊ",
+            "phrase": "功能"
+        },
+        {
+            "bopomofo": "ㄇㄨˋ ㄉㄧˋ",
+            "phrase": "目的"
+        },
+        {
+            "bopomofo": "ㄕˋ ㄗㄞˋ",
+            "phrase": "是在"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄌㄜ˙",
+            "phrase": "為了"
+        },
+        {
+            "bopomofo": "ㄊㄧˊ ㄍㄨㄥ",
+            "phrase": "提供"
+        },
+        {
+            "bopomofo": "ㄅㄞˊ ㄏㄨㄚˋ ㄨㄣˊ",
+            "phrase": "白話文"
+        },
+        {
+            "bopomofo": "ㄌㄞˊ ㄕㄨㄛ",
+            "phrase": "來說"
+        },
+        {
+            "bopomofo": "ㄉㄤˇ ㄢˋ",
+            "phrase": "檔案"
+        },
+        {
+            "bopomofo": "ㄗㄨㄛˋ ㄨㄟˊ",
+            "phrase": "作為"
+        },
+        {
+            "bopomofo": "ㄔㄠ ㄐㄧˊ",
+            "phrase": "超級"
+        },
+        {
+            "bopomofo": "ㄋㄚˋ ㄒㄧㄝ",
+            "phrase": "那些"
+        },
+        {
+            "bopomofo": "ㄧㄡˊ ㄑㄧˊ",
+            "phrase": "尤其"
+        },
+        {
+            "bopomofo": "ㄆㄧㄣˊ ㄈㄢˊ",
+            "phrase": "頻繁"
+        },
+        {
+            "bopomofo": "ㄘㄠ ㄗㄨㄛˋ",
+            "phrase": "操作"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄒㄧㄝ",
+            "phrase": "一些"
+        },
+        {
+            "bopomofo": "ㄎㄜˇ ㄧˇ",
+            "phrase": "可以"
+        },
+        {
+            "bopomofo": "ㄑㄧˊ ㄕˊ",
+            "phrase": "其實"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄌㄟˋ",
+            "phrase": "這類"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄕˋ",
+            "phrase": "程式"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣˇ ㄐㄧㄣˇ",
+            "phrase": "僅僅"
+        },
+        {
+            "bopomofo": "ㄏㄨㄚˋ ㄈㄣ",
+            "phrase": "劃分"
+        },
+        {
+            "bopomofo": "ㄆㄠˇ ㄅㄨˋ",
+            "phrase": "跑步"
+        },
+        {
+            "bopomofo": "ㄑㄧˇ ㄌㄞˊ",
+            "phrase": "起來"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˇ ㄕㄨㄛ",
+            "phrase": "想說"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄍㄨㄢˇ",
+            "phrase": "不管"
+        },
+        {
+            "bopomofo": "ㄕㄣˊ ㄇㄜ˙ ㄉㄜ˙",
+            "phrase": "什麼的"
+        },
+        {
+            "bopomofo": "ㄧㄣ ㄨㄟˋ",
+            "phrase": "因為"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄧㄝˇ ㄇㄟˊ",
+            "phrase": "我也沒"
+        },
+        {
+            "bopomofo": "ㄕㄣˊ ㄇㄜ˙",
+            "phrase": "什麼"
+        },
+        {
+            "bopomofo": "ㄓㄨˇ ㄧㄠˋ",
+            "phrase": "主要"
+        },
+        {
+            "bopomofo": "ㄧˋ ㄈㄤ ㄇㄧㄢˋ",
+            "phrase": "一方面"
+        },
+        {
+            "bopomofo": "ㄕˊ ㄗㄞˋ ㄕˋ",
+            "phrase": "實在是"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄉㄨㄛ",
+            "phrase": "不多"
+        },
+        {
+            "bopomofo": "ㄌㄧㄥˋ ㄧ ㄈㄤ ㄇㄧㄢˋ",
+            "phrase": "另一方面"
+        },
+        {
+            "bopomofo": "ㄉㄤ ㄒㄧㄚˋ",
+            "phrase": "當下"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄇㄟˊ",
+            "phrase": "也沒"
+        },
+        {
+            "bopomofo": "ㄊㄞˋ ㄉㄨㄛ",
+            "phrase": "太多"
+        },
+        {
+            "bopomofo": "ㄐㄧㄝˋ ㄕㄠˋ",
+            "phrase": "介紹"
+        },
+        {
+            "bopomofo": "ㄏㄨㄚ ㄌㄜ˙",
+            "phrase": "花了"
+        },
+        {
+            "bopomofo": "ㄉㄚˋ ㄅㄢˋ",
+            "phrase": "大半"
+        },
+        {
+            "bopomofo": "ㄌㄧㄥˊ ㄔㄣˊ",
+            "phrase": "凌晨"
+        },
+        {
+            "bopomofo": "ㄊㄠˇ ㄌㄨㄣˋ",
+            "phrase": "討論"
+        },
+        {
+            "bopomofo": "ㄅㄢˋ ㄊㄧㄢ",
+            "phrase": "半天"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄉㄧㄥˋ",
+            "phrase": "不定"
+        },
+        {
+            "bopomofo": "ㄔㄥˊ ㄍㄨㄥ",
+            "phrase": "成功"
+        },
+        {
+            "bopomofo": "ㄐㄧㄢˋ ㄑㄧˇ",
+            "phrase": "建起"
+        },
+        {
+            "bopomofo": "ㄌㄞˊ ㄌㄜ˙",
+            "phrase": "來了"
+        },
+        {
+            "bopomofo": "ㄉㄢˋ ㄕˋ",
+            "phrase": "但是"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄉㄜ˙",
+            "phrase": "好的"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄩㄥˋ",
+            "phrase": "都用"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄌㄧㄠˇ",
+            "phrase": "不了"
+        },
+        {
+            "bopomofo": "ㄐㄧㄣ ㄊㄧㄢ",
+            "phrase": "今天"
+        },
+        {
+            "bopomofo": "ㄗㄨㄛˊ ㄊㄧㄢ",
+            "phrase": "昨天"
+        },
+        {
+            "bopomofo": "ㄓㄠˇ ㄉㄠˋ",
+            "phrase": "找到"
+        },
+        {
+            "bopomofo": "ㄎㄞ ㄕˇ",
+            "phrase": "開始"
+        },
+        {
+            "bopomofo": "ㄨㄟˋ ㄕㄣˊ ㄇㄜ˙",
+            "phrase": "為什麼"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄉㄜ˙",
+            "phrase": "我的"
+        },
+        {
+            "bopomofo": "ㄕㄜˋ ㄉㄧㄥˋ",
+            "phrase": "設定"
+        },
+        {
+            "bopomofo": "ㄇㄟˊ ㄧㄡˇ",
+            "phrase": "沒有"
+        },
+        {
+            "bopomofo": "ㄕㄥ ㄒㄧㄠˋ",
+            "phrase": "生效"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄐㄧㄚ",
+            "phrase": "人家"
+        },
+        {
+            "bopomofo": "ㄉㄜ˙ ㄏㄣˇ",
+            "phrase": "得很"
+        },
+        {
+            "bopomofo": "ㄓㄨㄤ ㄧㄡˇ",
+            "phrase": "裝有"
+        },
+        {
+            "bopomofo": "ㄊㄠˋ ㄐㄧㄢˋ",
+            "phrase": "套件"
+        },
+        {
+            "bopomofo": "ㄧㄝˇ ㄐㄧㄡˋ ㄕˋ ㄕㄨㄛ",
+            "phrase": "也就是說"
+        },
+        {
+            "bopomofo": "ㄅㄨˊ ㄕˋ",
+            "phrase": "不是"
+        },
+        {
+            "bopomofo": "ㄚ ㄇㄠ",
+            "phrase": "阿貓"
+        },
+        {
+            "bopomofo": "ㄚ ㄍㄡˇ",
+            "phrase": "阿狗"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄌㄞˊ",
+            "phrase": "上來"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄏㄨㄟˋ ㄋㄧㄠˇ",
+            "phrase": "都會鳥"
+        },
+        {
+            "bopomofo": "ㄓㄜˋ ㄍㄜ˙",
+            "phrase": "這個"
+        },
+        {
+            "bopomofo": "ㄕㄨㄛ ㄇㄧㄥˊ",
+            "phrase": "說明"
+        },
+        {
+            "bopomofo": "ㄧ ㄓˊ",
+            "phrase": "一直"
+        },
+        {
+            "bopomofo": "ㄇㄧㄥˊ ㄅㄞˊ",
+            "phrase": "明白"
+        },
+        {
+            "bopomofo": "ㄉㄠˋ ㄌㄧˇ",
+            "phrase": "道理"
+        },
+        {
+            "bopomofo": "ㄧㄥˋ ㄓㄥˋ",
+            "phrase": "映證"
+        },
+        {
+            "bopomofo": "ㄧˊ ㄍㄜ˙",
+            "phrase": "一個"
+        },
+        {
+            "bopomofo": "ㄩˇ ㄑㄧˊ",
+            "phrase": "與其"
+        },
+        {
+            "bopomofo": "ㄒㄧㄤˋ ㄍㄜ˙ ㄨˊ ㄊㄡˊ",
+            "phrase": "像個無頭"
+        },
+        {
+            "bopomofo": "ㄘㄤ ㄧㄥˊ",
+            "phrase": "蒼蠅"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄖㄨˊ",
+            "phrase": "不如"
+        },
+        {
+            "bopomofo": "ㄌㄧˇ ㄐㄧㄝˇ",
+            "phrase": "理解"
+        },
+        {
+            "bopomofo": "ㄏㄠˇ ㄏㄠˇ",
+            "phrase": "好好"
+        },
+        {
+            "bopomofo": "ㄨㄣˊ ㄉㄤˇ",
+            "phrase": "文檔"
+        },
+        {
+            "bopomofo": "ㄖㄣˊ ㄕㄥ",
+            "phrase": "人生"
+        },
+        {
+            "bopomofo": "ㄉㄤ ㄓㄨㄥ",
+            "phrase": "當中"
+        },
+        {
+            "bopomofo": "ㄅㄨˋ ㄍㄞ",
+            "phrase": "不該"
+        },
+        {
+            "bopomofo": "ㄧㄡˇ ㄉㄜ˙",
+            "phrase": "有的"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄌㄧˇ",
+            "phrase": "心理"
+        },
+        {
+            "bopomofo": "ㄓㄨㄤˋ ㄊㄞˋ",
+            "phrase": "狀態"
+        },
+        {
+            "bopomofo": "ㄒㄧㄣ ㄐㄧˊ",
+            "phrase": "心急"
+        },
+        {
+            "bopomofo": "ㄅㄨˇ ㄔㄨㄥ",
+            "phrase": "補充"
+        },
+        {
+            "bopomofo": "ㄓˊ ㄉㄜˊ",
+            "phrase": "值得"
+        },
+        {
+            "bopomofo": "ㄓㄨˋ ㄧˋ",
+            "phrase": "注意"
+        },
+        {
+            "bopomofo": "ㄔㄚ ㄅㄧㄝˊ",
+            "phrase": "差別"
+        },
+        {
+            "bopomofo": "ㄅㄧˋ ㄐㄧㄥˋ",
+            "phrase": "畢竟"
+        },
+        {
+            "bopomofo": "ㄏㄞˊ ㄕˋ",
+            "phrase": "還是"
+        },
+        {
+            "bopomofo": "ㄕㄨˇ ㄩˊ",
+            "phrase": "屬於"
+        },
+        {
+            "bopomofo": "ㄌㄧˋ ㄕㄨˇ",
+            "phrase": "隸屬"
+        },
+        {
+            "bopomofo": "ㄉㄧˇ ㄒㄧㄚˋ",
+            "phrase": "底下"
+        },
+        {
+            "bopomofo": "ㄇㄨˋ ㄌㄨˋ",
+            "phrase": "目錄"
+        },
+        {
+            "bopomofo": "ㄙㄨㄛˇ ㄧˇ",
+            "phrase": "所以"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄩˊ",
+            "phrase": "在於"
+        },
+        {
+            "bopomofo": "ㄘˊ ㄉㄧㄝˊ",
+            "phrase": "磁碟"
+        },
+        {
+            "bopomofo": "ㄖㄨㄥˊ ㄌㄧㄤˋ",
+            "phrase": "容量"
+        },
+        {
+            "bopomofo": "ㄕㄤˋ ㄒㄧㄢˋ",
+            "phrase": "上限"
+        },
+        {
+            "bopomofo": "ㄑㄩˇ ㄐㄩㄝˊ ㄩˊ",
+            "phrase": "取決於"
+        },
+        {
+            "bopomofo": "ㄒㄧˋ ㄊㄨㄥˇ",
+            "phrase": "系統"
+        },
+        {
+            "bopomofo": "ㄐㄧˋ ㄧˋ ㄊㄧˇ",
+            "phrase": "記憶體"
+        },
+        {
+            "bopomofo": "ㄍㄨㄚˋ ㄗㄞˇ",
+            "phrase": "掛載"
+        },
+        {
+            "bopomofo": "ㄦˊ ㄑㄧㄝˇ",
+            "phrase": "而且"
+        },
+        {
+            "bopomofo": "ㄅㄧㄥˋ ㄅㄨˊ ㄕˋ",
+            "phrase": "並不是"
+        },
+        {
+            "bopomofo": "ㄇㄟˇ ㄍㄜ˙",
+            "phrase": "每個"
+        },
+        {
+            "bopomofo": "ㄩˋ ㄕㄜˋ",
+            "phrase": "預設"
+        },
+        {
+            "bopomofo": "ㄙㄨㄟ ㄖㄢˊ",
+            "phrase": "雖然"
+        },
+        {
+            "bopomofo": "ㄐㄧㄡˋ ㄕˋ",
+            "phrase": "就是"
+        },
+        {
+            "bopomofo": "ㄗㄨㄟˋ ㄏㄡˋ",
+            "phrase": "最後"
+        },
+        {
+            "bopomofo": "ㄐㄧㄥ ㄍㄨㄛˋ",
+            "phrase": "經過"
+        },
+        {
+            "bopomofo": "ㄧ ㄓㄡ",
+            "phrase": "一週"
+        },
+        {
+            "bopomofo": "ㄋㄨˇ ㄌㄧˋ",
+            "phrase": "努力"
+        },
+        {
+            "bopomofo": "ㄓㄨㄥ ㄩˊ",
+            "phrase": "終於"
+        },
+        {
+            "bopomofo": "ㄙㄨㄛˇ ㄧㄡˇ",
+            "phrase": "所有"
+        },
+        {
+            "bopomofo": "ㄉㄡ ㄍㄨㄛˋ",
+            "phrase": "都過"
+        },
+        {
+            "bopomofo": "ㄧ ㄅㄧㄢˋ",
+            "phrase": "一遍"
+        },
+        {
+            "bopomofo": "ㄖㄢˊ ㄏㄡˋ",
+            "phrase": "然後"
+        },
+        {
+            "bopomofo": "ㄇㄧㄠˊ ㄕㄨˋ",
+            "phrase": "描述"
+        },
+        {
+            "bopomofo": "ㄩㄣˇ ㄒㄩˇ",
+            "phrase": "允許"
+        },
+        {
+            "bopomofo": "ㄎㄞ ㄊㄡˊ",
+            "phrase": "開頭"
+        },
+        {
+            "bopomofo": "ㄗㄞˋ ㄨㄟˋ",
+            "phrase": "再為"
+        },
+        {
+            "bopomofo": "ㄓㄨˋ ㄐㄧㄝˇ",
+            "phrase": "註解"
+        },
+        {
+            "bopomofo": "ㄘㄨㄣˊ ㄗㄞˋ",
+            "phrase": "存在"
+        },
+        {
+            "bopomofo": "ㄊㄧㄠˊ ㄨㄣˊ",
+            "phrase": "條文"
+        },
+        {
+            "bopomofo": "ㄈㄚˇ ㄍㄨㄟ",
+            "phrase": "法規"
+        },
+        {
+            "bopomofo": "ㄨㄣˊ ㄐㄧㄢˋ",
+            "phrase": "文件"
+        },
+        {
+            "bopomofo": "ㄒㄧㄥˊ ㄕˋ",
+            "phrase": "形式"
+        },
+        {
+            "bopomofo": "ㄍㄞˇ ㄒㄧㄝˇ",
+            "phrase": "改寫"
+        },
+        {
+            "bopomofo": "ㄢˋ ㄔㄨ",
+            "phrase": "按出"
+        },
+        {
+            "bopomofo": "ㄧ ㄎㄜˋ",
+            "phrase": "一刻"
+        },
+        {
+            "bopomofo": "ㄓㄣ ㄉㄜ˙",
+            "phrase": "真的"
+        },
+        {
+            "bopomofo": "ㄊㄞˋ ㄇㄟˇ",
+            "phrase": "太美"
+        },
+        {
+            "bopomofo": "ㄑㄧㄥˇ ㄨㄣˋ",
+            "phrase": "請問"
+        },
+        {
+            "bopomofo": "ㄨㄛˇ ㄧㄡˇ",
+            "phrase": "我有"
+        },
+        {
+            "bopomofo": "ㄏㄨㄟ ㄓㄤ",
+            "phrase": "徽章"
+        },
+        {
+            "bopomofo": "ㄙˋ ㄩㄝˋ",
+            "phrase": "四月"
+        },
+        {
+            "bopomofo": "ㄋㄟˋ ㄏㄨˊ",
+            "phrase": "內湖"
+        },
+        {
+            "bopomofo": "ㄎㄨˋ ㄧㄣ",
+            "phrase": "酷音"
+        },
+        {
+            "bopomofo": "ㄨㄟˊ ㄖㄠˋ ㄗㄞˋ",
+            "phrase": "圍繞在"
+        }
+    ]
+}

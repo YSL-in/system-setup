@@ -1,0 +1,60 @@
+
+# python
+export PATH="$HOME/.local/bin:$PATH"
+export PATH="$HOME/.pyenv/bin:$PATH"
+eval "$(pyenv init --path)"
+
+# go
+complete -C /home/ysl/go/bin/gocomplete go
+goto() {
+    export GOPATH="${1:-$(pwd)}"
+    export PATH="$GOPATH:$PATH"
+}
+
+# kubernetes
+export KUBECONFIG=~/.kube/config
+export PATH="$HOME/.krew/bin:$PATH"
+
+source <(kubectl completion bash)
+source <(helm completion bash)
+
+alias k=kubectl
+alias h=helm
+complete -F __start_kubectl k
+complete -F __start_helm h
+
+pod-logs() {
+    kw=${1:?"... what do you want me log?"}
+
+    pod=$(kubectl get pods 2> /dev/null | awk '{print $1}' | grep $kw)
+    while [[ -z $pod ]]; do
+        echo -ne "\rwaiting for pod to be created... "
+        spin; sleep 0.1
+        pod=$(kubectl get pods 2> /dev/null | awk '{print $1}' | grep $kw)
+    done
+    echo -e "\n"
+    while ! kubectl logs $pod 2> /dev/null || [[ -z $(kubectl logs $pod) ]]; do
+        echo -ne "\rwaiting for $pod.."
+        spin; sleep 0.1
+    done
+    echo -e "\n"
+    kubectl logs $pod
+}
+
+spinner="|"
+spin() {
+    if [[ $spinner == "|" ]]; then
+        spinner="/"
+        echo -n $spinner
+    elif [[ $spinner == "/" ]]; then
+        spinner="-"
+        echo -n $spinner
+    elif [[ $spinner == "-" ]]; then
+        spinner="\\"
+        echo -n $spinner
+    elif [[ $spinner == "\\" ]]; then
+        spinner="|"
+        echo -n $spinner
+    fi
+}
+

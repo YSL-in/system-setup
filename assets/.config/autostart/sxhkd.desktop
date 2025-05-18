@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=sxhkd
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=No middle click to paste
+Name=No middle click to paste
+Comment[en_US]=Disable middle click to paste
+Comment=Disable middle click to paste

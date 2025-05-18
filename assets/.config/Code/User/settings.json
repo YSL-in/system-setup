@@ -1,0 +1,64 @@
+{
+    "editor.insertSpaces": true,
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 4,
+    "editor.rulers": [
+        {
+            "column": 88,
+            "color": "#6A9955"
+        }
+    ],
+    "files.trimTrailingWhitespace": true,
+    "git.openRepositoryInParentFolders": "always",
+    "gitlens.hovers.enabled": true,
+    "projectManager.removeCurrentProjectFromList": true,
+    "projectManager.filterOnFullPath": true,
+    "tab-groups.gitBranchGroups": "Nothing",
+    "tab-groups.sidebarRestoreStyle": "Close others",
+    "vim.handleKeys": {
+        "<C-d>": true,
+        "<C-a>": false,
+        "<C-i>": false,
+        "<C-s>": false,
+        "<C-z>": false,
+        "<C-x>": false,
+        "<C-c>": false,
+    },
+    "[go]": {
+        "editor.insertSpaces": true,
+        "editor.formatOnSave": false,  // gofmt only use tabs for indentation...
+    },
+    "[html]": {
+        "editor.tabSize": 2
+    },
+    "[json]": {
+        "editor.tabSize": 2,
+    },
+    "[markdown]": {
+        "editor.tabSize": 2
+    },
+    "[python]": {
+        "editor.formatOnSave": true,
+        "editor.codeActionsOnSave": {
+            "source.fixAll": "always",
+            "source.organizeImports": "never",
+            "source.unusedImports": "never"
+        },
+    },
+    "python.analysis.autoImportCompletions": true,
+    "python.analysis.inlayHints.functionReturnTypes": true,  // display hints for function return types
+    "python.analysis.inlayHints.variableTypes": false,       // display hints for variable types
+    "python.analysis.autoFormatStrings": true,               // auto-prefix f when {} is used
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportOptionalMemberAccess": "none"
+    },
+    "[shellscript]": {
+        "editor.tabSize": 4,
+        "files.eol": "\n"
+    },
+    "[yaml]": {
+        "editor.tabSize": 2
+    },
+    "explorer.confirmDragAndDrop": false,
+}

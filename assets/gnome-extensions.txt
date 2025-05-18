@@ -1,0 +1,39 @@
+Apps Menu
+Caffeine
+- Display
+    - Show atatus indicator in top panel: Always
+Coverflow Alt-Tab
+- General
+    - Looping Method: Carousel
+- Icons
+    - Application Icon Style: Overlay
+    - Overlay Icon Size: 64
+    - Overlay Icon Opacity: 0.250
+    - Icon Shadow: V
+    - Add/Remove Effects: Scale Only
+- Windows
+    - Coverflow Window Angle: 60
+    - **Current Monitor: V**
+Clipboard Indicator
+- Preview Size (characters): 20
+- Move item to the top after selection: V
+- Remove whitespace around text: V
+- Keep selected entry after Clear History: V
+- History Size: 99
+- Shortcuts
+    - Toggle the menu: Shift+Alt+V
+    - Next entry: Alt+V
+    - (Disable the rest)
+Places Status Indicator
+Top Panel Workspace Scroll
+
+
+
+Desktop Icons NG (DING)
+- How the trash icon in the desktop: V
+- Show external drives in the desktop: V
+Ubuntu Dock
+- Launchers
+    - Show trash can: -
+    - Include network volumes: -
+    - Show volumes and devices: -
