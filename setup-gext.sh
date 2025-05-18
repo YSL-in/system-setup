@@ -1,5 +1,9 @@
 #!/bin/bash
 
+sudo apt-get install -y gnome-shell-extension-manager
+google-chrome https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep \
+   https://extensions.gnome.org
+
 # Ref: https://extensions.gnome.org
 wget -O apps-menu.zip 'https://extensions.gnome.org/extension-data/apps-menugnome-shell-extensions.gcampax.github.com.v64.shell-extension.zip'
 wget -O caffeine.zip 'https://extensions.gnome.org/extension-data/caffeinepatapon.info.v57.shell-extension.zip'

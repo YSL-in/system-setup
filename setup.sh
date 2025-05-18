@@ -1,4 +1,5 @@
 #!/bin/bash
+set -ex
 
 cp assets/.bashrc ~/.bashrc
 cp assets/.bashrc-dev ~/.bashrc-dev
@@ -9,7 +10,9 @@ cp assets/.tmux.conf ~/.tmux.conf
 cp assets/.vimrc ~/.vimrc
 sudo cp ~/.vimrc /root/.vimrc
 
+###################
 ### CLI utility ###
+###################
 sudo apt-get install -y curl htop openssh-server snap sshfs tmux vim xsel zenity sxhkd usb-creator-gtk \
     fcitx5 fcitx5-chewing chewing-editor \
     guake libfuse2
@@ -49,7 +52,9 @@ vim +'PlugInstall --sync' +qa
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
 ~/.tmux/plugins/tpm/bin/install_plugins
 
+###################
 ### GUI utility ###
+###################
 AFFINE_VERSION=0.21.6  # Ref: https://github.com/toeverything/AFFiNE/releases
 
 sudo apt-get install -y flatpak
@@ -66,9 +71,9 @@ rm affine.deb chrome.deb vscode.deb
 # gnome extensions
 sudo apt-get install -y chrome-gnome-shell libcanberra-gtk-module
 
-
-
+#################
 ### dev tools ###
+#################
 sudo apt-get -y install build-essential gcc git make
 sudo snap install lxd yq vivaldi notion-desktop
 sudo snap install astral-uv --classic
@@ -129,7 +134,7 @@ sudo ln -s /usr/local/go/bin/go /usr/local/bin/go
 rm docker-desktop.deb go.tar.gz
 
 go install github.com/posener/complete/v2/gocomplete@latest
-COMP_INSTALL=1 gocomplete
+echo yes | COMP_INSTALL=1 ~/go/bin/gocomplete
 
 # k3s, helm, krew
 curl -sfL https://get.k3s.io | sh -s - --cluster-init
@@ -140,15 +145,6 @@ sudo cp /etc/rancher/k3s/k3s.yaml ~/.kube/config \
 
 curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/main/scripts/get-helm-3
 chmod 700 get_helm.sh && ./get_helm.sh && rm get_helm.sh
-
-(
-  set -x; cd " (uname | tr '[:upper:]' '[:lower:]')" &&
-  ARCH=" arm$$64 /arm64/')" &&
-  KREW="krew- {ARCH}" &&
-  curl -fsSLO "https://github.com/kubernetes-sigs/krew/releases/latest/download/${KREW}.tar.gz" &&
-  tar zxvf " {KREW}" install krew
-)
-echo 'export PATH="$HOME/.krew/bin:$PATH"' >> ~/.bashrc
 
 # python
 PYTHON_VERSION=3.12.10  # Ref: `pyenv install --list | grep '  3.'`
@@ -168,7 +164,7 @@ bash setup-pref.sh
 bash setup-gext.sh
 
 wget -O ~/Pictures/grub-bg.jpg https://images.unsplash.com/photo-1543941296-3c2f4b15b1c6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=aaron-roth-s6zbz7CFjbo-unsplash.jpg&w=1920
-sudo cat << EOF >> /etc/default/grub
+sudo tee -a /etc/default/grub > /dev/null <<EOF
 GRUB_BACKGROUND="/home/$USER/Pictures/grub-bg.jpg"
 GRUB_TIMEOUT=3
 GRUB_RECORDFAIL_TIMEOUT=\$GRUB_TIMEOUT
@@ -183,10 +179,14 @@ sudo apt update && sudo apt upgrade -y --allow-downgrades
 ### manual steps ###
 echo "Final 2 steps before reboot!"
 
-echo -e "\t1. Import $(realpath assets/chewing.json) with chewing-editor..."
+echo -e "\t1. Log in!!!"
+notion-desktop &
+affine &
+
+echo -e "\t2. Import $(realpath assets/chewing.json) with chewing-editor..."
 chewing-editor &
 
-echo -e "\t2. Configure Gnome extensions accordingly..."
+echo -e "\t3. Configure Gnome extensions accordingly..."
 cat assets/gnome-extensions.txt
 
 read -p "Reboot now? [y/N] " -n 1 -r
