@@ -24,14 +24,15 @@ Coverflow Alt-Tab
     - **Current Monitor: V**
 Places Status Indicator
 Top Panel Workspace Scroll
-
-
+==========================
 
 Desktop Icons NG (DING)
-- How the trash icon in the desktop: V
+- Show the trash icon in the desktop: V
 - Show external drives in the desktop: V
 Ubuntu Dock
+- Position and size
+    - Position on screen: Bottom
 - Launchers
+    - Move at beginning of the dock: V
     - Show trash can: -
-    - Include network volumes: -
     - Show volumes and devices: -

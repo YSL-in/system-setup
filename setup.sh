@@ -10,18 +10,19 @@ cp assets/.tmux.conf ~/.tmux.conf
 cp assets/.vimrc ~/.vimrc
 sudo cp ~/.vimrc /root/.vimrc
 
-###################
-### CLI utility ###
-###################
+###############
+# CLI utility #
+###############
 sudo apt-get install -y curl htop openssh-server snap sshfs tmux vim xsel zenity sxhkd usb-creator-gtk \
     fcitx5 fcitx5-chewing chewing-editor \
     guake libfuse2
 
-mkdir -p ~/.config/autostart/ && cp assets/.config/autostart/* ~/.config/autostart/
 mkdir -p ~/.config/fcitx5/    && cp -R assets/.config/fcitx5/* ~/.config/fcitx5/
 mkdir -p ~/.config/sxhkd/     && cp assets/.config/sxhkd/sxhkdrc ~/.config/sxhkd/sxhkdrc
 mkdir -p ~/.config/Code/User/ && cp assets/.config/Code/User/settings.json ~/.config/Code/User/settings.json
+
 guake --restore-preferences assets/.guake.pref
+mkdir -p ~/.config/autostart/ && cp assets/.config/autostart/* ~/.config/autostart/
 
 if kvm-ok; then
     sudo apt-get install -y qemu-kvm libvirt-daemon-system libvirt-clients virt-manager virtinst bridge-utils
@@ -47,21 +48,18 @@ fi
 sudo apt install -y clangd fonts-powerline
 curl -fLo $HOME/.vim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
 sudo ln -s ~/.vim /root/.vim
-vim +'PlugInstall --sync' +qa
+vim +'PlugInstall --sync' +qa || true
 
 git clone https://github.com/tmux-plugins/tpm ~/.tmux/plugins/tpm
-~/.tmux/plugins/tpm/bin/install_plugins
+~/.tmux/plugins/tpm/bin/install_plugins || true
 
-###################
-### GUI utility ###
-###################
-AFFINE_VERSION=0.21.6  # Ref: https://github.com/toeverything/AFFiNE/releases
-
-sudo apt-get install -y flatpak
+###############
+# GUI utility #
+###############
+sudo apt-get install -y gnome-shell-extension-manager flatpak
 sudo flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
-flatpak install -y flathub com.playonlinux.PlayOnLinux4
-flatpak install -y flathub org.gnome.Extensions
 
+AFFINE_VERSION=0.21.6  # Ref: https://github.com/toeverything/AFFiNE/releases
 wget -O affine.deb "https://github.com/toeverything/AFFiNE/releases/download/v$AFFINE_VERSION/affine-$AFFINE_VERSION-stable-linux-x64.deb"
 wget -O chrome.deb 'https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb'
 wget -O vscode.deb 'https://code.visualstudio.com/sha/download?build=stable&os=linux-deb-x64'
@@ -71,15 +69,16 @@ rm affine.deb chrome.deb vscode.deb
 # gnome extensions
 sudo apt-get install -y chrome-gnome-shell libcanberra-gtk-module
 
-#################
-### dev tools ###
-#################
+#############
+# dev tools #
+#############
 sudo apt-get -y install build-essential gcc git make
 sudo snap install lxd yq vivaldi notion-desktop
 sudo snap install astral-uv --classic
 sudo usermod -aG lxd $USER && newgrp lxd
 
 # git-status in bash
+mkdir -p ~/.gitstatus
 git clone --depth=1 https://github.com/romkatv/gitstatus.git ~/.gitstatus
 
 git config --global user.name YSL
@@ -100,14 +99,12 @@ git config --global alias.ls 'log --pretty=format:"%C(yellow)%h %<(10,trunc)%C(g
 # %C(...): switch font style
 # %<(N,trunc): keep N-char widths for the next placeholder
 # %<(N): keep at least N-char widths for the next placeholder
-
 # %h: abbreviated commit hash
 # %an: author name
 # %ah: author date (short)
 # %ar: author date (relative)
 # %s: subject
 # %x09: tab
-
 git config --global --add merge.ff true
 
 # docker
@@ -161,7 +158,6 @@ pip install --user pipx pipenv wheel
 
 ### final steps ###
 bash setup-pref.sh
-bash setup-gext.sh
 
 wget -O ~/Pictures/grub-bg.jpg https://images.unsplash.com/photo-1543941296-3c2f4b15b1c6?ixlib=rb-4.1.0&q=85&fm=jpg&crop=entropy&cs=srgb&dl=aaron-roth-s6zbz7CFjbo-unsplash.jpg&w=1920
 sudo tee -a /etc/default/grub > /dev/null <<EOF
@@ -171,24 +167,37 @@ GRUB_RECORDFAIL_TIMEOUT=\$GRUB_TIMEOUT
 EOF
 sudo update-grub2
 
-sudo im-config -n fcitx
 sudo apt update && sudo apt upgrade -y --allow-downgrades
+sudo apt autoremove
 
 
+################
+# manual steps #
+################
+echo "Final steps before reboot!"
 
-### manual steps ###
-echo "Final 2 steps before reboot!"
+echo "1. Log in!!!"
+echo -e "\t- notion-desktop"
+echo -e "\t- affine"
 
-echo -e "\t1. Log in!!!"
-notion-desktop &
-affine &
+echo "2. Switch the default input method!!"
+echo -e "\t- sudo im-config"
 
-echo -e "\t2. Import $(realpath assets/chewing.json) with chewing-editor..."
-chewing-editor &
+echo "3. Import $(realpath assets/chewing.json) with chewing-editor!"
+echo -e "\t- chewing-editor"
 
-echo -e "\t3. Configure Gnome extensions accordingly..."
+echo "4. Fix guake-toggle issue..."
+echo -e "\tSettings > Keyboard > View and Customize Shortcuts > Custom Shortcuts > ..."
+echo -e "\tName:     guake-toggle"
+echo -e "\tCommand:  guake-toggle"
+echo -e "\tShortcut: F10"
+
+echo "5. Configure Gnome extensions accordingly..."
+echo -e "\tgoogle-chrome https://chromewebstore.google.com/detail/gnome-shell-integration/gphhapmejobijbbhgpjhcjognlahblep https://extensions.gnome.org"
+echo ""
 cat assets/gnome-extensions.txt
 
+echo ""
 read -p "Reboot now? [y/N] " -n 1 -r
 if [[ $REPLY =~ ^[Yy]$ ]]; then
     sudo reboot now

@@ -1,7 +1,8 @@
 ### GUI utilities ###
+flatpak install -y flathub com.playonlinux.PlayOnLinux4
+
 WARP_VERSION=0.2025.05.14.08.11
 ETCHER_VERSION=2.1.3
-
 wget -O etcher.deb "https://github.com/balena-io/etcher/releases/download/v$ETCHER_VERSION/balena-etcher_$ETCHER_VERSION_amd64.deb"
 wget -O warp.deb "https://releases.warp.dev/stable/v$WARP_VERSION.stable_03/warp-terminal_$WARP_VERSION.stable.03_amd64.deb"
 wget -O postman.tar.gz 'https://dl.pstmn.io/download/latest/linux_64'
